@@ -23,7 +23,10 @@ block content
 				tr
 					if fields['title']
 						td.title-search
-							input(type='text',id='title-search')
+							//- input(type='text',id='title-search')
+							select#pick-title(data-placeholder='All titles',multiple='multiple',tabindex="6")
+								each opt in books
+									option #{opt}
 					if fields['author']
 						td.author-search
 					if fields['time']

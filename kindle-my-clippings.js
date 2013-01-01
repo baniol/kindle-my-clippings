@@ -150,8 +150,14 @@ Clip.prototype.init = function(file){
 	});
     // redirect output to html file
     this.parse(file,function(data){
+    	var selectTitle = $this.getTitles(data);
+    	selectTitle.unshift('All titles');
 	    var jadetemplate = jade.compile(fs.readFileSync('./views/html_file.jade', 'utf8'),{filename:'./views/html_file.jade',pretty:$this.options.pretty});
-	    var html = jadetemplate({rec:data,fields:fields});
+	    var html = jadetemplate({
+	    	rec:data,
+	    	fields:fields,
+	    	books:selectTitle
+	    });
 	    // writing content to a new html file
 	    fs.writeFile(outputFile, html, function(err){
 	        if(err) {
@@ -161,6 +167,17 @@ Clip.prototype.init = function(file){
 	    });
 	});
 
+};
+
+Clip.prototype.getTitles = function(col){
+	var titles = [];
+	col.forEach(function(el){
+		titles.push(el.title);
+	});
+	var unique=titles.filter(function(itm,i,titles){
+	    return i==titles.indexOf(itm);
+	});
+	return unique;
 };
 
 Clip.prototype.parse = function(file,callback){

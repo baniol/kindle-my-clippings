@@ -1,5 +1,12 @@
 $(document).ready(function(){
 
+	$("#pick-title").chosen({no_results_text: "No results matched"}).change(function(){
+		var opts = $('#pick_title_chzn ul li span');
+		$.each(opts,function(k,v){
+			console.log(v);
+		});
+	});
+
 	$(document).on('keyup','#title-search',function(e){
 		liveSearch('title',e);
 	});
