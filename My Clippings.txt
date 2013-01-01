@@ -1,0 +1,370 @@
+﻿Developing Backbone.js Applications (Addy Osmani)
+- Highlight Loc. 242-43  | Added on Monday, 3 December 12 19:00:12 Greenwich Mean Time
+
+languages when implementing patterns in their projects, there are many lessons we can
+==========
+Developing Backbone.js Applications (Addy Osmani)
+- Bookmark Loc. 241  | Added on Monday, 3 December 12 19:02:09 Greenwich Mean Time
+
+
+==========
+Developing Backbone.js Applications (Addy Osmani)
+- Bookmark Loc. 241  | Added on Monday, 3 December 12 19:03:05 Greenwich Mean Time
+
+
+==========
+Oreilly.Developing.Backbone.js.Applications.Apr.2012 (Addy Osmani)
+- Highlight on Page 7 | Added on Monday, 3 December 12 19:42:30 Greenwich Mean Time
+
+JavaScript templating libraries (such as Handlebars.js or Mustache)
+==========
+Oreilly.Developing.Backbone.js.Applications.Apr.2012 (Addy Osmani)
+- Highlight on Page 10 | Added on Monday, 3 December 12 19:50:09 Greenwich Mean Time
+
+The GoF (Gang of Four)
+==========
+Oreilly.Developing.Backbone.js.Applications.Apr.2012 (Addy Osmani)
+- Highlight on Page 10 | Added on Monday, 3 December 12 19:50:51 Greenwich Mean Time
+
+a variation of three other classical design patterns: the Observer (Pub/Sub), Strategy and Composite patterns
+==========
+Oreilly.Developing.Backbone.js.Applications.Apr.2012 (Addy Osmani)
+- Highlight on Page 10 | Added on Monday, 3 December 12 19:51:33 Greenwich Mean Time
+
+Factory and Decorator patterns
+==========
+Oreilly.Developing.Backbone.js.Applications.Apr.2012 (Addy Osmani)
+- Note on Page 11 | Added on Monday, 3 December 12 19:55:21 Greenwich Mean Time
+
+a
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 448-49  | Added on Monday, 3 December 12 20:01:25 Greenwich Mean Time
+
+you can download this and other examples
+==========
+Dracula (Bram Stoker)
+- Highlight Loc. 965-66  | Added on Monday, 3 December 12 21:33:43 GMT+00:59
+
+agreeing with the cardinal points of the compass.
+==========
+Dracula (Bram Stoker)
+- Highlight Loc. 7366  | Added on Monday, 3 December 12 21:35:41 GMT+00:59
+
+Four folk remedies against vampires.
+==========
+Dracula (Bram Stoker)
+- Highlight Loc. 976  | Added on Monday, 3 December 12 21:45:06 GMT+00:59
+
+We Transylvanian nobles love not to think that our bones may be amongst the common dead.
+==========
+Dracula (Bram Stoker)
+- Highlight Loc. 997  | Added on Monday, 3 December 12 22:52:51 GMT+00:59
+
+I pulled the curtains again, and have written of this day.
+==========
+Dracula (Bram Stoker)
+- Highlight Loc. 1011  | Added on Monday, 3 December 12 23:03:52 GMT+00:59
+
+the blood was trickling over my chin.
+==========
+Dracula (Bram Stoker)
+- Highlight Loc. 1023  | Added on Monday, 3 December 12 23:07:32 GMT+00:59
+
+with occasionally a deep rift where there is a chasm.
+==========
+Oreilly.Developing.Backbone.js.Applications.Apr.2012 (Addy Osmani)
+- Highlight on Page 17 | Added on Monday, 3 December 12 23:22:52 GMT+00:59
+
+#documentcloud IRC channel. I strongly recommend using the latter if you find yourself getting stuck
+==========
+Oreilly.Developing.Backbone.js.Applications.Apr.2012 (Addy Osmani)
+- Highlight on Page 19 | Added on Monday, 3 December 12 23:27:26 GMT+00:59
+
+Model.toJSON(): var myAttributes = myPhoto.toJSON(); console.log(myAttributes); /* this returns { title: "My awesome photo", src:"boston.jpg", location: "Boston", tags:['the big game', 'vacation']}*/
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 481-82  | Added on Tuesday, 4 December 12 06:42:31 GMT+00:59
+
+otherwise it will return None, the Python null value.
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 516  | Added on Tuesday, 4 December 12 17:24:14 GMT+00:59
+
+Triple quotes signify a multi-line string.
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 535-39  | Added on Tuesday, 4 December 12 17:29:42 GMT+00:59
+
+Python Style Guide discusses how to write a good doc string. Python Tutorial discusses conventions for spacing in doc 
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 552-54  | Added on Tuesday, 4 December 12 17:33:12 GMT+00:59
+
+The first line imports the odbchelper program as a module -- a chunk of code that you can use interactively, or from a larger Python program.
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 573-74  | Added on Tuesday, 4 December 12 21:05:43 GMT+00:59
+
+Python looks in several places when you try to import a module. Specifically, it looks in all the directories defined in sys.path.
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 611-12  | Added on Tuesday, 4 December 12 22:04:36 GMT+00:59
+
+everything is an object in the sense that it can be assigned to a variable or passed as an argument to a function
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 619  | Added on Tuesday, 4 December 12 22:05:26 GMT+00:59
+
+to discuss this sort of thing at great length.
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 624-25  | Added on Tuesday, 4 December 12 22:06:01 GMT+00:59
+
+The only delimiter is a colon (:) and the indentation of the code itself.
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 693-95  | Added on Tuesday, 4 December 12 22:18:20 GMT+00:59
+
+When you import the module, __name__ is something else, so the test suite is ignored. This makes it easier to develop and debug new modules before integrating them into a larger program.
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 708  | Added on Tuesday, 4 December 12 22:19:19 GMT+00:59
+
+dictionary, which defines one-to-one relationships between keys and values.
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 798-803  | Added on Tuesday, 4 December 12 22:25:53 GMT+00:59
+
+del lets you delete individual items from a dictionary by key. clear deletes all items from a dictionary. Note that the set of empty curly braces signifies a dictionary without any items. Further Reading on Dictionaries How to Think Like a Computer Scientist
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 833-34  | Added on Tuesday, 4 December 12 22:28:29 GMT+00:59
+
+A list is an ordered set of elements enclosed in square brackets.
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 845-46  | Added on Tuesday, 4 December 12 22:29:57 GMT+00:59
+
+A negative index accesses elements from the end of the list counting backwards. The last element of any non-empty list is always li[-1].
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 889-90  | Added on Tuesday, 4 December 12 22:48:41 GMT+00:59
+
+li[:] is shorthand for making a complete copy of a list.
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 949-50  | Added on Tuesday, 4 December 12 22:52:19 GMT+00:59
+
+index finds the first occurrence of a value in the list and returns the index.
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 960-63  | Added on Tuesday, 4 December 12 22:53:48 GMT+00:59
+
+To test whether a value is in the list, use in, which returns True if the value is found or False if it is not. 
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 1016-18  | Added on Tuesday, 4 December 12 22:56:48 GMT+00:59
+
+the + operator returns a new (concatenated) list as a value, whereas extend only alters an existing list. This means that extend is faster, especially for large lists.
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 1040-41  | Added on Tuesday, 4 December 12 22:58:24 GMT+00:59
+
+A tuple is an immutable list. A tuple can not be changed in any way once it is created.
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 1080-81  | Added on Tuesday, 4 December 12 23:00:37 GMT+00:59
+
+Tuples are faster than lists.
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 1108-9  | Added on Wednesday, 5 December 12 06:41:22 GMT+00:59
+
+Variables spring into existence by being assigned a value, and they are automatically destroyed when they go out of scope.
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 1119  | Added on Wednesday, 5 December 12 06:43:06 GMT+00:59
+
+stringent indentation rules
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 1150-51  | Added on Wednesday, 5 December 12 06:48:00 GMT+00:59
+
+[0, 1, 2, 3, 4, 5, 6] >>> (MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY) = range(7) 
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 1160-61  | Added on Wednesday, 5 December 12 06:49:10 GMT+00:59
+
+You can print range.__doc__ for 
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 1166  | Added on Wednesday, 5 December 12 06:49:50 GMT+00:59
+
+calendar module,
+==========
+2600 Magazine: The Hacker Quarterly (2600 Enterprises)
+- Highlight Loc. 688  | Added on Wednesday, 5 December 12 21:28:20 GMT+00:59
+
+any sort of liquid damage to an Apple product will void your warranty.
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 3 | Loc. 140  | Added on Wednesday, 5 December 12 21:44:06 GMT+00:59
+
+it’s this hot and muggy 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 4 | Loc. 150-51  | Added on Wednesday, 5 December 12 21:53:37 GMT+00:59
+
+At age eleven you don’t get very impressed with red-winged blackbirds. You have to get older for that. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 4 | Loc. 153  | Added on Wednesday, 5 December 12 21:55:53 GMT+00:59
+
+pungent smell 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 4 | Loc. 155-56  | Added on Wednesday, 5 December 12 21:59:00 GMT+00:59
+
+every foot of these sloughs is humming and cricking and buzzing and chirping, 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 4 | Loc. 156-57  | Added on Wednesday, 5 December 12 22:00:22 GMT+00:59
+
+a whole community of millions of living things living out their lives in a kind of benign continuum. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 4 | Loc. 157-58  | Added on Wednesday, 5 December 12 22:09:28 GMT+00:59
+
+In a car you’re always in a compartment, 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 4 | Loc. 163-64  | Added on Wednesday, 5 December 12 22:11:51 GMT+00:59
+
+Plans are deliberately indefinite, more to travel than to arrive anywhere. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 5 | Loc. 165-66  | Added on Wednesday, 5 December 12 22:12:34 GMT+00:59
+
+We want to make good time, but for us now this is measured with emphasis on “good” rather than “time” and when you make that shift in emphasis the whole approach changes. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 5 | Loc. 166-67  | Added on Wednesday, 5 December 12 22:12:56 GMT+00:59
+
+Twisting hilly roads 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 5 | Loc. 172  | Added on Wednesday, 5 December 12 22:15:43 GMT+00:59
+
+We took them once in a while for variety 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 5 | Loc. 175  | Added on Wednesday, 5 December 12 22:19:05 GMT+00:59
+
+The hereness and nowness of things is something they know all about. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 5 | Loc. 175-76  | Added on Wednesday, 5 December 12 22:19:34 GMT+00:59
+
+It’s the others, the ones who moved to the cities years ago and their lost offspring, who have all but forgotten it. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 5 | Loc. 176-78  | Added on Wednesday, 5 December 12 22:42:06 GMT+00:59
+
+I’ve wondered why it took us so long to catch on. We saw it and yet we didn’t see it. Or rather we were trained not to see it. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 6 | Loc. 187  | Added on Wednesday, 5 December 12 22:45:20 GMT+00:59
+
+unobtrusively 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 6 | Loc. 190  | Added on Wednesday, 5 December 12 23:07:35 GMT+00:59
+
+So we navigate mostly by dead reckoning, 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 6 | Loc. 191  | Added on Wednesday, 5 December 12 23:08:11 GMT+00:59
+
+overcast days 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 6 | Loc. 191  | Added on Wednesday, 5 December 12 23:08:42 GMT+00:59
+
+the map mounted in a special carrier on top of the gas tank 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 6 | Loc. 194  | Added on Wednesday, 5 December 12 23:09:59 GMT+00:59
+
+cars strung bumper to bumper to the horizon. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 6 | Loc. 194  | Added on Wednesday, 5 December 12 23:10:33 GMT+00:59
+
+Scowling faces inside. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 7 | Loc. 197-98  | Added on Wednesday, 5 December 12 23:14:11 GMT+00:59
+
+the reality of them overwhelms halfway conceptions. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 7 | Loc. 205-6  | Added on Wednesday, 5 December 12 23:16:43 GMT+00:59
+
+We’re in such a hurry most of the time we never get much chance to talk. The result is a kind of endless day-to-day shallowness, a monotony that leaves a person wondering years later where all the time went and sorry that it’s all gone. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 7 | Loc. 207-8  | Added on Wednesday, 5 December 12 23:17:51 GMT+00:59
+
+What is in mind is a sort of Chautauqua—that’s the only name I can think of for it—like the traveling tent-show Chautauquas that used to move across America, 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 7 | Loc. 211-12  | Added on Wednesday, 5 December 12 23:19:21 GMT+00:59
+
+Perhaps because of these changes the stream of national consciousness moves faster now, and is broader, but it seems to run less deep. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 8 | Loc. 213-14  | Added on Wednesday, 5 December 12 23:20:51 GMT+00:59
+
+In this Chautauqua I would like not to cut any new channels of consciousness but simply dig deeper into old ones that have become silted in with the debris of thoughts grown stale and platitudes too often repeated. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 8 | Loc. 215-16  | Added on Wednesday, 5 December 12 23:21:17 GMT+00:59
+
+the silt of tomorrow. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 8 | Loc. 217-21  | Added on Wednesday, 5 December 12 23:23:27 GMT+00:59
+
+There are eras of human history in which the channels of thought have been too deeply cut and no change was possible, and nothing new ever happened, and “best” was a matter of dogma, but that is not the situation now. Now the stream of our common consciousness seems to be obliterating its own banks, losing its central direction and purpose, flooding the lowlands, disconnecting and isolating the highlands and to no particular purpose other than the wasteful fulfillment of its own internal momentum. Some channel deepening seems called for. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 9 | Loc. 227  | Added on Wednesday, 5 December 12 23:25:55 GMT+00:59
+
+one at a time 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 9 | Loc. 240  | Added on Wednesday, 5 December 12 23:28:31 GMT+00:59
+
+opens the saddlebag and starts rummaging through. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 10 | Loc. 246  | Added on Wednesday, 5 December 12 23:29:58 GMT+00:59
+
+I watch them gain distance up ahead. 
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 1172-74  | Added on Wednesday, 5 December 12 23:36:22 GMT+00:59
+
+You can also use multi-variable assignment to build functions that return multiple values, simply by returning a tuple of all the values. The caller can treat it as a tuple, or assign the values to individual variables. Many standard Python libraries do this, including the os module,
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 1190-93  | Added on Wednesday, 5 December 12 23:40:35 GMT+00:59
+
+>>> "%s=%s" % (k, v) 'uid=sa' The
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 1199  | Added on Wednesday, 5 December 12 23:41:38 GMT+00:59
+
+type coercion.
+==========

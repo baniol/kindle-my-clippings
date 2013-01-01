@@ -1,0 +1,56 @@
+extends layout
+
+block content
+	div
+		table#main-table
+			thead
+				tr
+					if fields['title']
+						th.title Title
+					if fields['author']
+						th.author Author
+					if fields['time']
+						th.time-head Time
+					if fields['text']
+						th.content Content
+					if fields['type']
+						th.type Type
+					if fields['location']
+						th.location Location
+					if fields['page']
+						th.page Page
+			tbody
+				tr
+					if fields['title']
+						td.title-search
+							input(type='text',id='title-search')
+					if fields['author']
+						td.author-search
+					if fields['time']
+						td.time-search
+					if fields['text']
+						td.content-search
+							input(type='text',id='content-search')
+					if fields['type']
+						td.type-search
+					if fields['location']
+						td.location-search
+					if fields['page']
+						td.page-search
+
+				each el in rec
+					tr	
+						if fields['title']
+							td.title #{el.title}
+						if fields['author']
+							td.author #{el.author}
+						if fields['time']
+							td.time #{el.time}
+						if fields['text']
+							td.content #{el.text}
+						if fields['type']
+							td.type #{el.type}
+						if fields['location']
+							td.location #{el.location}
+						if fields['page']
+							td.page #{el.page}
