@@ -368,3 +368,1403 @@ Dive Into Python (Mark Pilgrim)
 
 type coercion.
 ==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 1226  | Added on Thursday, 6 December 12 20:11:17 GMT+00:59
+
+values.
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 72  | Added on Thursday, 6 December 12 22:48:48 GMT+00:59
+
+bottleneck—it’s 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 76-77  | Added on Thursday, 6 December 12 22:50:25 GMT+00:59
+
+you’ll have the skills to be able to start dissecting and solving all but the most esoteric of problems. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 85-86  | Added on Thursday, 6 December 12 22:51:35 GMT+00:59
+
+this should pose no big hindrance. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 86-87  | Added on Thursday, 6 December 12 22:52:11 GMT+00:59
+
+idiosyncratic features 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 110-11  | Added on Thursday, 6 December 12 22:53:44 GMT+00:59
+
+The SitePoint Forums are discussion forums 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 121-22  | Added on Thursday, 6 December 12 22:54:47 GMT+00:59
+
+and download the archive. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 189  | Added on Thursday, 6 December 12 22:56:37 GMT+00:59
+
+Or for that matter, 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 201  | Added on Thursday, 6 December 12 22:58:22 GMT+00:59
+
+as the chapter unfolds. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 206  | Added on Thursday, 6 December 12 22:59:11 GMT+00:59
+
+it succinctly summarizes 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 220  | Added on Thursday, 6 December 12 23:01:52 GMT+00:59
+
+the numbers above should be taken with the proverbial grain of salt. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 221-22  | Added on Thursday, 6 December 12 23:02:22 GMT+00:59
+
+to dispel any misconception of JavaScript being inherently slow. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 236  | Added on Thursday, 6 December 12 23:05:16 GMT+00:59
+
+Prime number calculation is a good example. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 249  | Added on Thursday, 6 December 12 23:07:37 GMT+00:59
+
+I hope I’ve whetted your appetite; 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 279-80  | Added on Friday, 7 December 12 06:33:22 GMT+00:59
+
+as foursquare and craigslist. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 285  | Added on Friday, 7 December 12 06:33:57 GMT+00:59
+
+MongoLab, 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 287-90  | Added on Friday, 7 December 12 06:35:11 GMT+00:59
+
+Node.js provides a built-in, bare-bones HTTP server. Built on top of this is Connect, a middleware framework that provides support for cookies, sessions, logging, and compression, to name a few. On top of Connect is Express, which has support for routing, templates (using the Jade templating engine), and view rendering. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 300-301  | Added on Friday, 7 December 12 06:37:11 GMT+00:59
+
+An application with basic default options can be created using this command: express authentication 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 389-90  | Added on Friday, 7 December 12 23:50:20 GMT+00:59
+
+suggest at some point you install node-supervisor to automatically restart the system upon changes to the file. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 411  | Added on Friday, 7 December 12 23:51:22 GMT+00:59
+
+module.exports is the Node.js syntax for exposing functions and variables to other modules. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 430  | Added on Saturday, 8 December 12 00:02:45 GMT+00:59
+
+resistant to dictionary attack. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 441  | Added on Saturday, 8 December 12 00:04:20 GMT+00:59
+
+If your next project begins to take on the popularity 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 444  | Added on Saturday, 8 December 12 00:05:07 GMT+00:59
+
+to enhance understandability and maintainability. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 463-64  | Added on Saturday, 8 December 12 00:07:02 GMT+00:59
+
+to dispel that myth once and for all. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 465-67  | Added on Saturday, 8 December 12 00:08:03 GMT+00:59
+
+Before you protest that your finance or IT knowledge is incapable of absorbing the intricacies of such a task, rest assured that it’s simple once you break down the problem into the relevant components. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 486  | Added on Saturday, 8 December 12 00:10:30 GMT+00:59
+
+flesh out 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 495-96  | Added on Saturday, 8 December 12 00:12:29 GMT+00:59
+
+I have chosen to write code in a functional style, although object-oriented would also have been a fine choice. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 497  | Added on Saturday, 8 December 12 00:12:56 GMT+00:59
+
+we modify the aforesaid example as follows: 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 501-2  | Added on Saturday, 8 December 12 00:13:50 GMT+00:59
+
+Mocha makes it easy to perform asynchronous unit tests and specifically supports the test-driven paradigm that we’ve discussed. It can output results in a variety of formats, making it easy to integrate with other testing tools. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 10 | Loc. 251-52  | Added on Saturday, 8 December 12 00:17:59 GMT+00:59
+
+a minor difference of opinion between John and me on a matter of small importance: 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 511-12  | Added on Saturday, 8 December 12 08:23:36 GMT+00:59
+
+without having to mentally process large blocks of code. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 588  | Added on Saturday, 8 December 12 08:38:49 GMT+00:59
+
+it allows a number of programming techniques that fall short of best practice. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 590-91  | Added on Saturday, 8 December 12 08:39:24 GMT+00:59
+
+John Resig, creator of jQuery, has written a good summary. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Note Loc. 591  | Added on Saturday, 8 December 12 08:40:00 GMT+00:59
+
+strict
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 611-12  | Added on Saturday, 8 December 12 08:43:02 GMT+00:59
+
+The small inconvenience of testing early will save you the larger one of digging through thousands of lines of code to find an obscure bug—one 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 627-29  | Added on Saturday, 8 December 12 08:46:06 GMT+00:59
+
+No need for me to go into the technical details of the implementing a binary heap because Marijn does an excellent job in his online book. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 636  | Added on Saturday, 8 December 12 08:47:56 GMT+00:59
+
+if (this.options.max) { this.content.push(-element); } else this.content.push(element); 
+==========
+Jump Start Node.js (Don Nguyen)
+- Note Loc. 636  | Added on Saturday, 8 December 12 08:48:17 GMT+00:59
+
+heap
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 643-45  | Added on Saturday, 8 December 12 08:49:35 GMT+00:59
+
+to add a peek function that works similarly to pop, except without removal: peek: function() { if (this.options.max) return -this.content[0]; else return this.content[0]; } 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 647-51  | Added on Saturday, 8 December 12 08:56:56 GMT+00:59
+
+I will limit further observations to noting that with the addition of this data structure, JavaScript is starting to resemble much more closely some of the other languages you may have studied in Algorithms 101. Perhaps you can begin to see that it’s not just a funny little language for browser manipulation. Download the full code available at https://gist.github.com/3949948 and copy it into chapter02/lib/BinaryHeap.js. 
+==========
+Dive Into Python (Mark Pilgrim)
+- Note Loc. 1267  | Added on Saturday, 8 December 12 10:01:54 GMT+00:59
+
+tutaj
+==========
+Dive Into Python (Mark Pilgrim)
+- Bookmark Loc. 1262  | Added on Saturday, 8 December 12 10:03:02 GMT+00:59
+
+
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 693-94  | Added on Saturday, 8 December 12 21:59:18 GMT+00:59
+
+you’re using a public API and you feed it some data, which then appears mangled in the response. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 718  | Added on Saturday, 8 December 12 22:02:43 GMT+00:59
+
+module.exports is the Node.js syntax for exposing functions to other modules. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 729-30  | Added on Saturday, 8 December 12 22:04:49 GMT+00:59
+
+Now we arrive at the most intricate piece of the puzzle: 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 748-49  | Added on Saturday, 8 December 12 22:06:23 GMT+00:59
+
+Because orderBook is a JSON object, it can perform near-constant time lookups, and will be extremely fast. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 11 | Loc. 269-70  | Added on Saturday, 8 December 12 22:09:13 GMT+00:59
+
+I could preach the practical value and worth of motorcycle maintenance till I’m hoarse and it would make not a dent in him. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 11 | Loc. 271-72  | Added on Saturday, 8 December 12 22:09:54 GMT+00:59
+
+Sylvia is completely with him on this one. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 11 | Loc. 272  | Added on Saturday, 8 December 12 22:10:15 GMT+00:59
+
+she is even more emphatic. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 11 | Loc. 272-73  | Added on Saturday, 8 December 12 22:10:33 GMT+00:59
+
+she says, when in a thoughtful mood. “Like 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 12 | Loc. 279  | Added on Saturday, 8 December 12 22:12:20 GMT+00:59
+
+on a really scorching day 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 13 | Loc. 298  | Added on Saturday, 8 December 12 23:58:04 GMT+00:59
+
+he was really tied up in knots inside. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 14 | Loc. 315  | Added on Sunday, 9 December 12 00:02:44 GMT+00:59
+
+the sink faucet was dripping 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 15 | Loc. 323  | Added on Sunday, 9 December 12 00:04:20 GMT+00:59
+
+she lost her temper at them. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 15 | Loc. 329  | Added on Sunday, 9 December 12 00:06:04 GMT+00:59
+
+and one of those light bulbs went on over my head and I thought, Ahhhhhhhh! 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 15 | Loc. 330  | Added on Sunday, 9 December 12 00:06:36 GMT+00:59
+
+And then all sorts of things started tumbling into place and I knew that was it. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 16 | Loc. 349  | Added on Sunday, 9 December 12 00:13:00 GMT+00:59
+
+sooty air, 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 17 | Loc. 367  | Added on Sunday, 9 December 12 16:44:53 GMT+00:59
+
+coining of a mass term. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 18 | Loc. 373  | Added on Sunday, 9 December 12 16:46:44 GMT+00:59
+
+petals of a flower. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 18 | Loc. 379  | Added on Sunday, 9 December 12 16:48:10 GMT+00:59
+
+exchange small talk, 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 19 | Loc. 385  | Added on Sunday, 9 December 12 16:49:18 GMT+00:59
+
+Farmhouses 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 779-80  | Added on Sunday, 9 December 12 16:55:13 GMT+00:59
+
+We use Object.keys to return all the own enumerable properties in the object. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 853-54  | Added on Sunday, 9 December 12 16:58:49 GMT+00:59
+
+a rather mundane function 
+==========
+Dive Into Python (Mark Pilgrim)
+- Highlight Loc. 1303-5  | Added on Sunday, 9 December 12 17:02:58 GMT+00:59
+
+['mpilgrim', 'sa', 'master', 'secret'] >>> ["%s=%s" % (k, v) for k, v in params.items()] 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 954-55  | Added on Sunday, 9 December 12 22:44:12 GMT+00:59
+
+MongoDB is a particular type of NoSQL database; specifically, it’s a document-oriented database system. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 975-76  | Added on Sunday, 9 December 12 22:47:51 GMT+00:59
+
+presentation on Node.js and MongoDB as a modern stack for the real-time web, replacing the traditional LAMP 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 19 | Loc. 386-87  | Added on Sunday, 9 December 12 22:53:09 GMT+00:59
+
+It’s a gradual change like this that catches you unawares, 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 994  | Added on Monday, 10 December 12 22:38:29 GMT+00:59
+
+trade-off 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 998  | Added on Monday, 10 December 12 22:39:36 GMT+00:59
+
+idiosyncratic features. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1030  | Added on Monday, 10 December 12 22:44:11 GMT+00:59
+
+particular quirk 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1045-46  | Added on Monday, 10 December 12 22:46:27 GMT+00:59
+
+It can perform operations such as changing directories, inspecting memory usage, and determining uptime. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1065  | Added on Monday, 10 December 12 22:49:00 GMT+00:59
+
+which is one less hurdle to clear on your way to mastery. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1138  | Added on Monday, 10 December 12 22:54:42 GMT+00:59
+
+The concept of map is to take a collection and transform it in some way. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1141-43  | Added on Monday, 10 December 12 22:55:41 GMT+00:59
+
+Map is part of a very powerful programming paradigm known as MapReduce. It wouldn’t be an exaggeration to say that in many ways it forms the heart of Google’s infrastructure. The official blog describes how Google use MapReduce to sort one petabyte of data. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1145  | Added on Monday, 10 December 12 22:56:52 GMT+00:59
+
+[1, 2, 3].map(function(x) { return x * 2; }); 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1151-53  | Added on Monday, 10 December 12 22:58:06 GMT+00:59
+
+a remote authentication module. The actual function will be physically located on a remote server, but can be called as if it were residing locally. This is possible because of a package called dnode, created by James Halliday. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 19 | Loc. 393-94  | Added on Monday, 10 December 12 23:06:36 GMT+00:59
+
+John was worried Sylvia would not be up to the discomfort of this 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 19 | Loc. 394  | Added on Monday, 10 December 12 23:07:04 GMT+00:59
+
+Sylvia and I both talked him out of it. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 19 | Loc. 394-96  | Added on Monday, 10 December 12 23:07:37 GMT+00:59
+
+I argued that physical discomfort is important only when the mood is wrong. Then you fasten on to whatever thing is uncomfortable and call that the cause. But if the mood is right, then physical discomfort doesn’t mean much. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 20 | Loc. 403-4  | Added on Monday, 10 December 12 23:09:57 GMT+00:59
+
+I thought maybe in this endless grass and wind she would see a thing that sometimes comes when monotony and boredom are accepted. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 20 | Loc. 407  | Added on Monday, 10 December 12 23:11:08 GMT+00:59
+
+with this humidity and wind it was more than likely. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 20 | Loc. 409-10  | Added on Monday, 10 December 12 23:12:54 GMT+00:59
+
+That long dark streak without any preceding cirrus clouds is a cold front. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 21 | Loc. 418  | Added on Monday, 10 December 12 23:15:19 GMT+00:59
+
+soggy 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 21 | Loc. 426  | Added on Monday, 10 December 12 23:17:48 GMT+00:59
+
+Gas seemed to be sloshing around inside. 
+==========
+Le Monde (Le Monde)
+- Highlight Loc. 847  | Added on Monday, 10 December 12 23:34:18 GMT+00:59
+
+une foule hétéroclite
+==========
+Le Monde (Le Monde)
+- Highlight Loc. 1201-2  | Added on Tuesday, 11 December 12 06:51:00 GMT+00:59
+
+l'excédent commercial
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1196-97  | Added on Tuesday, 11 December 12 18:28:18 GMT+00:59
+
+REST API. REST stands for REpresentational State Transfer, which is the architecture behind the Web. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Bookmark Loc. 1202  | Added on Tuesday, 11 December 12 18:44:55 GMT+00:59
+
+
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1247-48  | Added on Tuesday, 11 December 12 22:58:27 GMT+00:59
+
+For those familiar with SQL, there is an SQL-to-Mongo mapping chart available. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1253-54  | Added on Tuesday, 11 December 12 22:59:23 GMT+00:59
+
+Indexing is a detailed topic, so for further information, a good source is the official documentation. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1286-87  | Added on Tuesday, 11 December 12 23:04:11 GMT+00:59
+
+Highstock, a library built on jQuery and available at Highcharts. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1320  | Added on Tuesday, 11 December 12 23:07:14 GMT+00:59
+
+the aesthetic, the quality, has to be carried all the way through.” 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1328  | Added on Tuesday, 11 December 12 23:08:30 GMT+00:59
+
+As icing on the cake, 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1402-3  | Added on Tuesday, 11 December 12 23:12:02 GMT+00:59
+
+for better performance, you may combine and minify your Bootstrap files or use a content delivery network. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1418-19  | Added on Tuesday, 11 December 12 23:12:45 GMT+00:59
+
+For those who wish to investigate in further detail, w3resource has an in-depth explanation of all of the common widgets. 
+==========
+Le Monde (Le Monde)
+- Highlight Loc. 160-61  | Added on Tuesday, 11 December 12 23:21:59 GMT+00:59
+
+les premières démonstrations de film en HFR ne m'ont pas bluffé.
+==========
+Le Monde (Le Monde)
+- Highlight Loc. 280  | Added on Tuesday, 11 December 12 23:26:52 GMT+00:59
+
+la dauphine qui s'est affranchie de son mentor
+==========
+Le Monde (Le Monde)
+- Highlight Loc. 281  | Added on Tuesday, 11 December 12 23:27:08 GMT+00:59
+
+Certaines photos en disent parfois plus que de longs discours.
+==========
+Le Monde (Le Monde)
+- Highlight Loc. 382  | Added on Tuesday, 11 December 12 23:28:46 GMT+00:59
+
+La remise du prix Nobel de la paix à l'Union européenne
+==========
+Le Monde (Le Monde)
+- Highlight Loc. 383-84  | Added on Tuesday, 11 December 12 23:29:19 GMT+00:59
+
+qu'il n'y a guère de raison de se réjouir.
+==========
+Le Monde (Le Monde)
+- Highlight Loc. 417-18  | Added on Tuesday, 11 December 12 23:30:36 GMT+00:59
+
+Moyennant plusieurs millions de dollars, Nafissatou Diallo renonce à sa plainte au civil
+==========
+Le Monde (Le Monde)
+- Highlight Loc. 833  | Added on Wednesday, 12 December 12 06:51:27 GMT+00:59
+
+la levée de l'immunité parlementaire
+==========
+Le Monde (Le Monde)
+- Highlight Loc. 847  | Added on Wednesday, 12 December 12 06:52:58 GMT+00:59
+
+a été suspendu à titre provisoire,
+==========
+Le Monde (Le Monde)
+- Highlight Loc. 1103  | Added on Wednesday, 12 December 12 06:57:35 GMT+00:59
+
+redressement productif,
+==========
+Le Monde (Le Monde)
+- Highlight Loc. 1104  | Added on Wednesday, 12 December 12 06:58:17 GMT+00:59
+
+sans vergogne
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1445-47  | Added on Wednesday, 12 December 12 21:44:26 GMT+00:59
+
+bcrypt is a more secure alternative because it takes a lot longer to attack by brute force. As you’ve come to expect, there is a package available for handling bcrypt encryption. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1477-78  | Added on Thursday, 13 December 12 22:15:01 GMT+00:59
+
+Because we added the body parser earlier (using app.use(express.bodyParser())), we can retrieve the form parameters using req.body.username, req.body.email, and req.body.password. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 22 | Loc. 442  | Added on Thursday, 13 December 12 22:42:32 GMT+00:59
+
+We slow down and look for a place to pull off on the gravelly shoulder. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 22 | Loc. 443  | Added on Thursday, 13 December 12 22:43:18 GMT+00:59
+
+gravel is loose 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 22 | Loc. 445  | Added on Thursday, 13 December 12 22:43:53 GMT+00:59
+
+“Big as a barn door.” 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 23 | Loc. 452  | Added on Thursday, 13 December 12 22:46:32 GMT+00:59
+
+you can get stuck for quite a time. 
+==========
+Polityka (Polityka SP)
+- Highlight Loc. 570-71  | Added on Saturday, 15 December 12 09:29:13 GMT+00:59
+
+Przepis to prawo pisane ( lex), podczas gdy prawo ( ius) oznacza kombinację ideałów sprawiedliwości, słuszności i racjonalności.
+==========
+Le Monde (Le Monde)
+- Highlight Loc. 480  | Added on Saturday, 15 December 12 09:58:28 GMT+00:59
+
+un casier alvéolé.
+==========
+Le Monde (Le Monde)
+- Highlight Loc. 480-81  | Added on Saturday, 15 December 12 09:59:09 GMT+00:59
+
+Deux grains de riz ont germé dans chacune des 96 alvéoles.
+==========
+Le Monde (Le Monde)
+- Highlight Loc. 481  | Added on Saturday, 15 December 12 10:00:08 GMT+00:59
+
+flétris.
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1634  | Added on Saturday, 15 December 12 10:01:29 GMT+00:59
+
+Note that sessions may still use an HTTP cookie to store the session token. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1634-35  | Added on Saturday, 15 December 12 10:02:23 GMT+00:59
+
+Note that sessions may still use an HTTP cookie to store the session token. Therefore, cookies are required to store the session token even though other information is handled on the server side. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1646-47  | Added on Saturday, 15 December 12 10:04:00 GMT+00:59
+
+Once the user ID has been stored, it can be accessed in the future using req.session._id. 
+==========
+Polityka (Polityka SP)
+- Highlight Loc. 2050  | Added on Saturday, 15 December 12 13:19:13 GMT+00:59
+
+mutacjami genetycznymi. To właśnie te ostatnie są przyczyną nowotworów.
+==========
+Polityka (Polityka SP)
+- Highlight Loc. 2059-60  | Added on Saturday, 15 December 12 13:20:32 GMT+00:59
+
+Nowotwór powstaje zwykle z pojedynczej zmutowanej komórki, której udało się oszukać jej własny system genów obronnych, zwanych supresorami nowotworów.
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 35-36  | Added on Sunday, 16 December 12 20:17:22 GMT+00:59
+
+solving one of these conundrums won’t just bring you mathematical fame—it 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 42  | Added on Sunday, 16 December 12 20:18:25 GMT+00:59
+
+A mathematical million awaits the person who can unravel their secrets. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 44  | Added on Sunday, 16 December 12 20:19:05 GMT+00:59
+
+Ultimately we tackle the biggest challenge of 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 45  | Added on Sunday, 16 December 12 20:20:13 GMT+00:59
+
+the Winning Streak, 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 62  | Added on Sunday, 16 December 12 20:23:21 GMT+00:59
+
+mathematics really is at the heart of all that we see and everything we do. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 69  | Added on Sunday, 16 December 12 20:24:46 GMT+00:59
+
+Packs of animals will base their decision to fight or flee on whether their group is outnumbered by a rival pack. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 84-85  | Added on Sunday, 16 December 12 22:16:23 GMT+00:59
+
+Many different theories were put forward to account for Beckham’s choice, 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 95  | Added on Sunday, 16 December 12 22:18:57 GMT+00:59
+
+the Discordianists, a modern cult that reveres chaos and has a cabalistic obsession with the number 23? 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 96-97  | Added on Sunday, 16 December 12 22:19:28 GMT+00:59
+
+A prime number is a number that is divisible only by itself and 1. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 96-99  | Added on Sunday, 16 December 12 22:20:57 GMT+00:59
+
+A prime number is a number that is divisible only by itself and 1. 17 and 23 are prime because they can’t be written as two smaller numbers multiplied together, whereas 15 isn’t prime because 15=3×5. Prime numbers are the most important numbers in mathematics because all other whole numbers are built by multiplying primes together. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 105-6  | Added on Sunday, 16 December 12 22:22:33 GMT+00:59
+
+The primes are the building blocks of all numbers. Just as molecules are built from atoms such as hydrogen and oxygen or sodium and chlorine, numbers are built from primes. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 106  | Added on Sunday, 16 December 12 22:22:56 GMT+00:59
+
+In the world of mathematics, the numbers 2, 3 and 5 are like hydrogen, helium and lithium. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 105-7  | Added on Sunday, 16 December 12 22:23:43 GMT+00:59
+
+The primes are the building blocks of all numbers. Just as molecules are built from atoms such as hydrogen and oxygen or sodium and chlorine, numbers are built from primes. In the world of mathematics, the numbers 2, 3 and 5 are like hydrogen, helium and lithium. That’s what makes them the most important numbers in mathematics. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 150  | Added on Sunday, 16 December 12 22:30:54 GMT+00:59
+
+The next generation of eggs hatch in midsummer, 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 188-89  | Added on Sunday, 16 December 12 22:37:14 GMT+00:59
+
+one of the great works of twentieth-century music: Quatuor pour la fin du temps—‘The 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 190  | Added on Sunday, 16 December 12 22:37:45 GMT+00:59
+
+a rickety upright piano 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 205  | Added on Sunday, 16 December 12 22:40:56 GMT+00:59
+
+entwined 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 218-19  | Added on Sunday, 16 December 12 22:43:11 GMT+00:59
+
+The author Mark Haddon only used prime number chapters in his best-selling book The Curious Incident of the Dog in the Night-time. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 229  | Added on Sunday, 16 December 12 22:46:04 GMT+00:59
+
+mathematical whiz, 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 240-41  | Added on Sunday, 16 December 12 22:48:38 GMT+00:59
+
+Carl Sagan’s novel Contact, 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1728-29  | Added on Sunday, 16 December 12 22:52:55 GMT+00:59
+
+There are libraries that elegantly abstract some of these details away; a good choice is async. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 265  | Added on Monday, 17 December 12 22:18:07 GMT+00:59
+
+whistle-stop tour 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 287  | Added on Monday, 17 December 12 22:28:08 GMT+00:59
+
+The tip of the stylus was wedge-shaped, 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 388  | Added on Tuesday, 18 December 12 17:44:03 GMT+00:59
+
+effeminate. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 392  | Added on Tuesday, 18 December 12 17:45:03 GMT+00:59
+
+the Chinese were probably the first to single out the primes as important numbers, 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 394  | Added on Tuesday, 18 December 12 17:45:41 GMT+00:59
+
+sieves 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 416-17  | Added on Tuesday, 18 December 12 18:12:40 GMT+00:59
+
+the sieve of Eratosthenes, 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 421  | Added on Tuesday, 18 December 12 18:13:51 GMT+00:59
+
+the circumference of the Earth 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 463  | Added on Tuesday, 18 December 12 21:18:28 GMT+00:59
+
+and then suddenly several come along in quick succession. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 476-77  | Added on Wednesday, 19 December 12 00:02:03 GMT+00:59
+
+The Man Who Mistook His Wife for a Hat, Oliver Sacks 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 479  | Added on Wednesday, 19 December 12 00:02:44 GMT+00:59
+
+Swotting up 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 485-86  | Added on Wednesday, 19 December 12 00:04:24 GMT+00:59
+
+Working out the day of the week from a given date is done by something called modular or clock arithmetic. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 496-99  | Added on Wednesday, 19 December 12 00:07:27 GMT+00:59
+
+Fermat showed that the test can be extended past powers of 2 by proving that if p is prime, then for any number n less than p, np always has remainder n when divided by the prime p. So if you find any number n for which this fails, you can throw out p as a prime impostor. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 504  | Added on Wednesday, 19 December 12 00:09:07 GMT+00:59
+
+hopscotch 
+==========
+Esperanto Self-Taught with Phonetic Pronunciation (William W. Mann)
+- Note Loc. 3739  | Added on Wednesday, 19 December 12 06:35:49 GMT+00:59
+
+tutaj
+==========
+Esperanto Self-Taught with Phonetic Pronunciation (William W. Mann)
+- Highlight Loc. 191  | Added on Wednesday, 19 December 12 17:55:14 GMT+00:59
+
+without any drawling after-sound.
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 506  | Added on Wednesday, 19 December 12 18:07:15 GMT+00:59
+
+The first player takes a counter and places it on a prime number, 
+==========
+New Dictionary HISPANO Spanish-English v2.0 - 2012 ( )
+- Highlight Loc. 88991  | Added on Wednesday, 19 December 12 22:53:31 GMT+00:59
+
+tropezó y cayó al suelo -> she tripped and fell (over o down)
+==========
+New Dictionary HISPANO Spanish-English v2.0 - 2012 ( )
+- Highlight Loc. 88993-94  | Added on Wednesday, 19 December 12 22:54:54 GMT+00:59
+
+dejar caer algo -> to drop something (objeto) María cayó por las gradas -> Mary fell down the stairs.
+==========
+Spanish Tales for Beginners (Spanish Edition) (E. C. (Elijah Clarence) Hills and Various)
+- Highlight Loc. 116  | Added on Wednesday, 19 December 12 23:17:52 GMT+00:59
+
+sin piedad,
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 23 | Loc. 460  | Added on Wednesday, 19 December 12 23:37:54 GMT+00:59
+
+The engine was so hot the air around it shimmered and we could feel the heat radiate. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 23 | Loc. 460-61  | Added on Wednesday, 19 December 12 23:38:40 GMT+00:59
+
+When I put a wet finger on it, it sizzled like a hot iron 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 24 | Loc. 462  | Added on Wednesday, 19 December 12 23:39:10 GMT+00:59
+
+an overhaul was needed. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 24 | Loc. 463-64  | Added on Wednesday, 19 December 12 23:39:55 GMT+00:59
+
+all that time-dragging stuff 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 24 | Loc. 465  | Added on Wednesday, 19 December 12 23:40:47 GMT+00:59
+
+A radio was going full blast 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 24 | Loc. 468  | Added on Wednesday, 19 December 12 23:42:10 GMT+00:59
+
+rode the cycle carefully at varying low speeds to wear it in 
+==========
+La prisión de Black Rock (Spanish Edition) (Fernando Trujillo Sanz and César García Muñoz)
+- Highlight Loc. 25  | Added on Thursday, 20 December 12 20:15:21 GMT+00:59
+
+—Ha quedado perfecto
+==========
+New Dictionary HISPANO Spanish-English v2.0 - 2012 ( )
+- Highlight Loc. 399189  | Added on Thursday, 20 December 12 20:21:51 GMT+00:59
+
+Esta enagua queda bien -> This skirt fits well.
+==========
+La prisión de Black Rock (Spanish Edition) (Fernando Trujillo Sanz and César García Muñoz)
+- Highlight Loc. 26-27  | Added on Thursday, 20 December 12 20:23:16 GMT+00:59
+
+se abstuvo de decir nada.
+==========
+La prisión de Black Rock (Spanish Edition) (Fernando Trujillo Sanz and César García Muñoz)
+- Highlight Loc. 27  | Added on Thursday, 20 December 12 20:24:04 GMT+00:59
+
+Lo cierto es que no hubiera tenido la menor idea de qué replicar a semejante comentario.
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 25 | Loc. 489-90  | Added on Thursday, 20 December 12 20:36:54 GMT+00:59
+
+You can’t really think hard about what you’re doing and listen to the radio at the same time. 
+==========
+The Fourth Awakening (Rod Pennington and Jeffery A. Martin)
+- Highlight on Page 1 | Loc. 116-17  | Added on Thursday, 20 December 12 22:29:19 GMT+00:59
+
+maybe this time he had one with a bit more meat on it. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 27 | Loc. 514-15  | Added on Thursday, 20 December 12 22:31:39 GMT+00:59
+
+When you want to hurry something, that means you no longer care about it and want to get on to other things. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 30 | Loc. 557  | Added on Thursday, 20 December 12 22:43:39 GMT+00:59
+
+the fatigue of the day is really on me. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1900-1901  | Added on Friday, 21 December 12 17:46:12 GMT+00:59
+
+arguably the most important chapter in the book. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1913-14  | Added on Friday, 21 December 12 21:30:49 GMT+00:59
+
+you, as the programmer, are relieved of the need to write browser-specific code. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1949-50  | Added on Friday, 21 December 12 21:34:13 GMT+00:59
+
+Redis is a scalable, in-memory database system 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1951  | Added on Friday, 21 December 12 21:34:40 GMT+00:59
+
+the built-in MemoryStore for storing session information. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1958-59  | Added on Friday, 21 December 12 21:35:30 GMT+00:59
+
+For a good starting point, have a look at Connect Redis [https://github.com/visionmedia/connect-redis]. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1969-70  | Added on Friday, 21 December 12 21:36:38 GMT+00:59
+
+We will be using the sessionStore object as an intermediary to shuffle data back and forth between Express.js and Socket.IO. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1976-78  | Added on Friday, 21 December 12 21:37:31 GMT+00:59
+
+MemoryStore is recommended more for prototyping than for production. Because memory storage ties user information to a specific machine, it limits flexibility when an application becomes big enough to scale out to several machines. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 1976-79  | Added on Friday, 21 December 12 21:38:02 GMT+00:59
+
+MemoryStore is recommended more for prototyping than for production. Because memory storage ties user information to a specific machine, it limits flexibility when an application becomes big enough to scale out to several machines. A production configuration would use a more robust mechanism, such as the aforementioned Redis. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Bookmark Loc. 2238  | Added on Friday, 21 December 12 22:10:54 GMT+00:59
+
+
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 32 | Loc. 598  | Added on Saturday, 22 December 12 08:12:06 GMT+00:59
+
+“What I’m driving at,” I say, “is the notion that 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 33 | Loc. 610-11  | Added on Saturday, 22 December 12 08:14:24 GMT+00:59
+
+We are all of us very arrogant and conceited about running down other people’s ghosts but just as ignorant and barbaric and superstitious about our own.” 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 33 | Loc. 616  | Added on Saturday, 22 December 12 08:16:16 GMT+00:59
+
+most of the time he seems like such a normal guy.” 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 35 | Loc. 636  | Added on Saturday, 22 December 12 08:22:05 GMT+00:59
+
+I pull seniority and take the bed by the window. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 36 | Loc. 654  | Added on Saturday, 22 December 12 08:24:17 GMT+00:59
+
+“This had better be the last question, 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 37 | Loc. 670  | Added on Saturday, 22 December 12 08:26:59 GMT+00:59
+
+heard a rooster crowing 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 37 | Loc. 671-72  | Added on Saturday, 22 December 12 08:27:43 GMT+00:59
+
+I can hear John right through the motel partition sawing wood in there…unless 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 38 | Loc. 680  | Added on Saturday, 22 December 12 08:29:52 GMT+00:59
+
+Unlined leather gloves 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 38 | Loc. 686  | Added on Saturday, 22 December 12 08:31:22 GMT+00:59
+
+Billfold. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 38 | Loc. 687  | Added on Saturday, 22 December 12 08:31:59 GMT+00:59
+
+APCs for headaches. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 38 | Loc. 687  | Added on Saturday, 22 December 12 08:32:09 GMT+00:59
+
+Insect repellent. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 38 | Loc. 688-89  | Added on Saturday, 22 December 12 08:33:03 GMT+00:59
+
+Band-Aids. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 38 | Loc. 694-95  | Added on Saturday, 22 December 12 08:38:46 GMT+00:59
+
+I try always to pick a book far over his head and read it as a basis for questions and answers, rather than without interruption. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 39 | Loc. 703  | Added on Saturday, 22 December 12 08:40:16 GMT+00:59
+
+Canteen. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 39 | Loc. 704  | Added on Saturday, 22 December 12 08:40:50 GMT+00:59
+
+Army-surplus mess kits 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 39 | Loc. 706  | Added on Saturday, 22 December 12 08:41:54 GMT+00:59
+
+Some aluminum screw-top tins. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 40 | Loc. 710  | Added on Saturday, 22 December 12 08:43:18 GMT+00:59
+
+A tire-patching kit. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 40 | Loc. 714  | Added on Saturday, 22 December 12 08:44:56 GMT+00:59
+
+taillight bulbs, 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 40 | Loc. 718-19  | Added on Saturday, 22 December 12 08:46:31 GMT+00:59
+
+I go over finally and give Chris a shake. His eyes pop open, then he sits bolt upright uncomprehending. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 40 | Loc. 720  | Added on Saturday, 22 December 12 23:44:20 GMT+00:59
+
+The air is invigorating. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 40 | Loc. 722  | Added on Saturday, 22 December 12 23:45:07 GMT+00:59
+
+The cycles are wet with dew. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 41 | Loc. 730-31  | Added on Saturday, 22 December 12 23:47:52 GMT+00:59
+
+Good old beat-up gloves. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 41 | Loc. 733-34  | Added on Saturday, 22 December 12 23:50:04 GMT+00:59
+
+spattered bugs 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 42 | Loc. 748  | Added on Sunday, 23 December 12 00:32:14 GMT+00:59
+
+groves of trees 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 43 | Loc. 757  | Added on Sunday, 23 December 12 00:36:25 GMT+00:59
+
+in the lobby of the hotel adjoining the restaurant, 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 44 | Loc. 784-85  | Added on Sunday, 23 December 12 13:37:45 GMT+00:59
+
+He glides over the varnished lobby floor like a skater, does a handspring, 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 45 | Loc. 793  | Added on Sunday, 23 December 12 13:39:45 GMT+00:59
+
+buffeting wind 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 45 | Loc. 797  | Added on Sunday, 23 December 12 13:40:58 GMT+00:59
+
+Where there is a slight rise in the road the drone of the motor becomes heavier. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 46 | Loc. 807-8  | Added on Sunday, 23 December 12 13:42:48 GMT+00:59
+
+“There’s nothing up ahead that’s any better than it is right here.” 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 46 | Loc. 813-15  | Added on Sunday, 23 December 12 13:43:49 GMT+00:59
+
+So we move down the empty road. I don’t want to own these prairies, or photograph them, or change them, or even stop or even keep going. We are just moving down the empty road. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 46 | Loc. 816-17  | Added on Sunday, 23 December 12 13:44:11 GMT+00:59
+
+THE FLATNESS OF THE PRAIRIE DISAPPEARS AND A DEEP UNDULATION of the earth begins. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 48 | Loc. 834  | Added on Sunday, 23 December 12 17:49:44 GMT+00:59
+
+run-down 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 48 | Loc. 841-42  | Added on Sunday, 23 December 12 18:04:38 GMT+00:59
+
+Above the slopes outcroppings of rocks stand out overhead at the tops of the bluffs. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 48 | Loc. 844-45  | Added on Sunday, 23 December 12 18:07:11 GMT+00:59
+
+Not kept up, just never messed up in the first place. It’s just the way it always must have been. Reservation land. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 49 | Loc. 850  | Added on Sunday, 23 December 12 18:11:35 GMT+00:59
+
+This old engine has a nickels-and-dimes sound to it. As if there were a lot of loose change flying around inside. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Highlight Loc. 2202  | Added on Sunday, 23 December 12 18:15:54 GMT+00:59
+
+Socket.IO has a built-in disconnect mechanism for handling this. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 49 | Loc. 854-56  | Added on Sunday, 23 December 12 22:39:05 GMT+00:59
+
+He isn’t so interested in what things mean as in what they are. That’s quite important, that he sees things this way. It took me a long time to see this difference and it’s important for the Chautauqua that I make this difference clear. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 50 | Loc. 871  | Added on Sunday, 23 December 12 22:48:17 GMT+00:59
+
+dodging 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 51 | Loc. 884-85  | Added on Sunday, 23 December 12 22:57:03 GMT+00:59
+
+In its place grew that old feeling I’ve talked about before, a feeling that there’s something bigger involved than is apparent on the surface. You follow these little discrepancies long enough and they sometimes open up into huge revelations. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 52 | Loc. 903  | Added on Sunday, 23 December 12 23:09:57 GMT+00:59
+
+It just won’t swing for him. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 52 | Loc. 904  | Added on Sunday, 23 December 12 23:10:46 GMT+00:59
+
+botches it and after so many botches gives up 
+==========
+Wypalanie traw (Wojciech Jagielski)
+- Highlight Loc. 801-3  | Added on Tuesday, 25 December 12 12:05:27 GMT+00:59
+
+O ile jednak poczucie wyższości Brytyjczyków nad czarnymi Afrykanami brało się z ich wyniosłości i przewagi nad zwyciężonym, o tyle Burowie w segregację ras szczerze wierzyli.
+==========
+Jump Start Node.js (Don Nguyen)
+- Note Loc. 2322  | Added on Wednesday, 26 December 12 00:16:53 GMT+00:59
+
+aaa
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight Loc. 94-95  | Added on Wednesday, 26 December 12 20:25:50 GMT+00:59
+
+The technology he released has turned that original ripple of excitement into a major paradigm shift 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight Loc. 101-2  | Added on Wednesday, 26 December 12 21:15:47 GMT+00:59
+
+Using JavaScript to connect your systems puts you at an advantage because you can quickly move from the front of the web stack dealing with human users to the backend data storage, and all of the network plumbing in between. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight Loc. 116  | Added on Wednesday, 26 December 12 23:39:41 GMT+00:59
+
+I encourage using these examples as a launching pad for further research. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight Loc. 197-98  | Added on Wednesday, 26 December 12 23:41:54 GMT+00:59
+
+We have a web page for this book, where we list errata, examples, and any additional information. You can access this page at http://bit.ly/mongodb-backbone . 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 3 | Loc. 213-14  | Added on Wednesday, 26 December 12 23:43:05 GMT+00:59
+
+in essence, you will be retraining yourself multiple times to keep sharp. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 3 | Loc. 214-15  | Added on Wednesday, 26 December 12 23:43:40 GMT+00:59
+
+In his 2008 book Outliers (Back Bay Books), Malcolm Gladwell presents evidence that it takes 10,000 hours of effort to achieve mastery at a professional level. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 8 | Loc. 304  | Added on Wednesday, 26 December 12 23:49:25 GMT+00:59
+
+Express framework. Built upon the Connect HTTP server framework, Express provides view rendering and a language for describing routes. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 8 | Loc. 311  | Added on Wednesday, 26 December 12 23:50:05 GMT+00:59
+
+thus exposing its functionality to the current namespace. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 15 | Loc. 653  | Added on Thursday, 27 December 12 16:51:58 GMT+00:59
+
+it will take the drudgery out of 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 19 | Loc. 873-74  | Added on Thursday, 27 December 12 17:13:25 GMT+00:59
+
+how quickly the language spirals into a web of callbacks and pyramid code. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 19 | Loc. 876  | Added on Thursday, 27 December 12 17:14:02 GMT+00:59
+
+Backbone aims to solve the code coupling problem 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 19 | Loc. 883-84  | Added on Thursday, 27 December 12 17:15:15 GMT+00:59
+
+Although models may be transient app-only creations, in most cases the model will represent an object stored in a database. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 20 | Loc. 888-92  | Added on Thursday, 27 December 12 17:16:31 GMT+00:59
+
+The extend function sets up a prototype chain for the Stooge class, so you can access all of the properties of Model whenever you work with a Stooge; all of the subclass-specific functionality is declared inside extend’s properties object. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 24 | Loc. 1090-91  | Added on Thursday, 27 December 12 17:47:02 GMT+00:59
+
+In Backbone, collections provide statefulness to your models by brokering reads and writes of data to and from the backend server, and notifying any listeners when models are read or changed. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 24 | Loc. 1093  | Added on Thursday, 27 December 12 17:47:55 GMT+00:59
+
+Why would you want to take on the overhead of a collection rather than 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 24 | Loc. 1143-44  | Added on Thursday, 27 December 12 17:50:11 GMT+00:59
+
+The collection raises events when any of the models it contains are updated, which can be useful in launching display updates in other areas of your application. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 24 | Loc. 1094-98  | Added on Thursday, 27 December 12 17:51:06 GMT+00:59
+
+in Example 3-4 , the Team collection defines Stooge as its model type, giving you the context that Backbone will be looking for models of type Stooge when it iterates or changes an instance of Team. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Note on Page 24 | Loc. 1095  | Added on Thursday, 27 December 12 17:51:53 GMT+00:59
+
+przeanalizowac
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 29 | Loc. 1334  | Added on Thursday, 27 December 12 18:24:09 GMT+00:59
+
+your application must be crafted to be resilient to data changes. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 30 | Loc. 1343-44  | Added on Thursday, 27 December 12 18:25:18 GMT+00:59
+
+If you want to make sure all your documents have a field called keywords, you could trigger an update across the entire collection, as shown in Example 4-3 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 30 | Loc. 1361-62  | Added on Thursday, 27 December 12 18:27:04 GMT+00:59
+
+the $set function shown here, which allows manipulation of part of a document, leaving the rest of the data intact. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 31 | Loc. 1371-73  | Added on Thursday, 27 December 12 18:28:22 GMT+00:59
+
+the $push command. This command allows you to add a new item to the end of an array without modifying anything else in your document. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 32 | Loc. 1463-64  | Added on Thursday, 27 December 12 23:43:11 GMT+00:59
+
+The find command in Example 4-6 has two parameters: the search criteria (empty in this case) and a desired field map. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 32 | Loc. 1507-11  | Added on Thursday, 27 December 12 23:45:10 GMT+00:59
+
+While going deeply into detail on the explain command would (and does!) fill an entire book, the first piece of information you should be looking for is in the cursor field. MongoDB uses either a BasicCursor or BtreeCursor when scanning collections of documents; for a heavily-used query, you want to avoid using a BasicCursor because it scans through every document in the collection to find a result. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 33 | Loc. 1514  | Added on Thursday, 27 December 12 23:46:04 GMT+00:59
+
+the explain function’s output. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 33 | Loc. 1543-44  | Added on Thursday, 27 December 12 23:46:54 GMT+00:59
+
+You use the ensureIndex function to add an index to your collection. Indexed fields are tracked in memory and can be retrieved much more rapidly by MongoDB. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 34 | Loc. 1592-93  | Added on Thursday, 27 December 12 23:49:10 GMT+00:59
+
+If you were to compare MongoDB to a traditional SQL-based server, MapReduce would fit in the space where you would normally use GROUP BY to collect aggregate results. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 52 | Loc. 910-11  | Added on Thursday, 27 December 12 23:55:07 GMT+00:59
+
+Now it’s become apparent that this dimension isn’t a fad that’s going to go away next year or the year after. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 52 | Loc. 912-13  | Added on Thursday, 27 December 12 23:58:00 GMT+00:59
+
+Now we are down to the root of things. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 38 | Loc. 1784-85  | Added on Friday, 28 December 12 23:47:51 GMT+00:59
+
+MongoDB includes a function called findAndModify, which handles searching and updating in a single function. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 38 | Loc. 1784-87  | Added on Friday, 28 December 12 23:49:03 GMT+00:59
+
+MongoDB includes a function called findAndModify, which handles searching and updating in a single function. This adds an extra layer of security because it ensures the update happens immediately when a record is found, rather than adding round-trip time to process the record on the client side and save it back to the database, during which time someone else might change the record and cause the concurrent access problem described earlier. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 47 | Loc. 1993  | Added on Sunday, 30 December 12 08:55:33 GMT+00:59
+
+Node exposes the nuts and bolts of the network to the programmer, 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 47 | Loc. 2041-43  | Added on Sunday, 30 December 12 08:57:32 GMT+00:59
+
+The expected behavior is for configure to read the contents of the NODE_ENV environment variable, which should be set to production when your application is deployed. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 48 | Loc. 2051-52  | Added on Sunday, 30 December 12 08:58:38 GMT+00:59
+
+__dirname is one of several global objects available to all modules within Node; 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 49 | Loc. 2079-81  | Added on Sunday, 30 December 12 09:01:15 GMT+00:59
+
+Defining a language in the HTML is not strictly necessary but it is a recommended practice because it helps search engines index your site and provides context for spell checkers and speech synthesizers. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 49 | Loc. 2100  | Added on Sunday, 30 December 12 09:03:45 GMT+00:59
+
+Express serves as the centerpiece of the server-side architecture, 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 50 | Loc. 2138-40  | Added on Sunday, 30 December 12 09:05:55 GMT+00:59
+
+The shim section configures dependencies that use traditional browser globals rather than the module export style of JavaScript used by RequireJS. This section ensures that the required dependencies (jQuery and Underscore) are loaded before Backbone initializes, in order to prevent conflicts from parallel loading. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 55 | Loc. 2481  | Added on Sunday, 30 December 12 09:13:33 GMT+00:59
+
+This performs a one-way scramble on the text 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 56 | Loc. 2495-96  | Added on Sunday, 30 December 12 09:15:34 GMT+00:59
+
+using MongoDB’s $set command to change a single value in the account record rather than the entire document. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 57 | Loc. 2585-87  | Added on Sunday, 30 December 12 11:06:21 GMT+00:59
+
+If you don’t unhook the listeners when changing views, your old view will remain in memory and continue to react to user events, becoming so-called zombie functions. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 58 | Loc. 2592-95  | Added on Sunday, 30 December 12 11:07:34 GMT+00:59
+
+One thing that happens when you start to really play with Node.js is you think of JavaScript in terms of I/O interactions. The initialize function is a shining example of the callback flow; it’s easy to try to read the file as a whole and get lost in layers of callbacks and functions, but when we write our code like in Example 6-3 , it makes the programmer’s intent clear. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 60 | Loc. 2704-9  | Added on Sunday, 30 December 12 11:16:57 GMT+00:59
+
+By the time the request comes through to your callback method, it contains more than just the web browser’s message — it contains everything the server knows about that message. Express’s session middleware is part of the server’s understanding of the request; the web browser sends an identifier, which the server uses to read the user’s session data from the memory store (described later in this chapter). The nice part about this is it’s done under the covers so you can just access the results of that read through the session variable attached to the request object. 
+==========
+Jump Start Node.js (Don Nguyen)
+- Note Loc. 2322  | Added on Sunday, 30 December 12 12:18:27 GMT+00:59
+
+tu koniec
+==========
+Jump Start Node.js (Don Nguyen)
+- Note Loc. 598  | Added on Sunday, 30 December 12 21:50:51 GMT+00:59
+
+mocha
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 66 | Loc. 3073  | Added on Sunday, 30 December 12 22:19:17 GMT+00:59
+
+Whenever possible, keep your variable list as small as possible by calling functions with as few parameters as you can. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 66 | Loc. 3077  | Added on Sunday, 30 December 12 22:20:06 GMT+00:59
+
+a minimum viable product (MVP). 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 68 | Loc. 3162-70  | Added on Sunday, 30 December 12 22:24:21 GMT+00:59
+
+var hostname = req.headers.host; var resetPasswordUrl = 'http://' + hostname + '/resetPassword'; 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 69 | Loc. 3270-71  | Added on Sunday, 30 December 12 22:25:52 GMT+00:59
+
+the use of nodemailer, an email library for Node 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 70 | Loc. 3279  | Added on Sunday, 30 December 12 22:26:56 GMT+00:59
+
+a security breach, 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 72 | Loc. 3385-86  | Added on Sunday, 30 December 12 22:42:03 GMT+00:59
+
+Express that also provides a series of handy functions you can utilize from your own work, such as the MemoryStore session storage object. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 74 | Loc. 3710-12  | Added on Sunday, 30 December 12 22:44:07 GMT+00:59
+
+Using limit causes Express to cut off incoming requests after a certain amount of data — in this case, one megabyte. This will help protect our application from distributed denial of service (DDOS) attacks, which would arise if sessions were allowed to post large requests that would otherwise bog down Express attempting to parse. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 78 | Loc. 3772-74  | Added on Tuesday, 1 January 13 09:40:41 GMT+00:59
+
+When you define a model in Backbone, you are really just defining the route to pull the account down from the server by providing a urlRoot. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 79 | Loc. 3854-58  | Added on Tuesday, 1 January 13 09:47:08 GMT+00:59
+
+When the view is initialized, call the bind() function on the model (in this case, we will be expecting an account model). The first parameter, change, means the action is to occur whenever any changes occur to the class model. The second parameter, this.render, refers to the function that will be executed every time the model changes. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 79 | Loc. 3859-61  | Added on Tuesday, 1 January 13 09:47:46 GMT+00:59
+
+Remember that JavaScript is not a class-based language, so the this keyword won’t always refer to the object from which it is called. 
+==========
