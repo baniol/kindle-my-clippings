@@ -1,9 +1,7 @@
 {
   "name": "kindle-my-clippings",
   "version": "0.0.1",
-  "description": "Kindle My Clippings.txt to JSON / html parser",
-  "url": "https://asdf.pl",
-  "private":true,
+  "description": "Amazon Kindle My Clippings.txt file to JSON / html parser",
   "keywords": [
     "parser",
     "kindle",
@@ -16,18 +14,14 @@
   },
   "dependencies": {
     "fs": "*",
-    "jade": "*",
-    "dateformat": "*",
-    "jquery":"*"
+    "jade": "0.27.7",
+    "dateformat": "1.0.4-1.2.3",
+    "jquery":"1.8.3"
   },
-  "preferGlobal": "true",
   "main": "./index.js",
-  "bin": {
-    "kindle-my-clippings": "./bin/index.js"
-  },
   "repository": {
     "type": "git",
-    "url": "https://asdf"
+    "url": "https://github.com/baniol/kindle-my-clippings"
   },
   "readme": "asdfasdf",
   "_id": "kindle-my-clippings@0.0.1",
