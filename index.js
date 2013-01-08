@@ -7,7 +7,7 @@ var options = {
   fields:['title','author','time','text','location'],
   // fields:['title'],
   displayType:['Highlight'],
-  outputType: 'file', // html | file
+  outputType: 'html', // html | file
   pretty:true
 };
 

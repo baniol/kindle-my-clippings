@@ -152,7 +152,11 @@ Clip.prototype.init = function(file){
     this.parse(file,function(data){
     	var selectTitle = $this.getTitles(data);
     	// selectTitle.unshift('All titles');
-	    var jadetemplate = jade.compile(fs.readFileSync('./views/html_file.jade', 'utf8'),{filename:'./views/html_file.jade',pretty:$this.options.pretty});
+	    var jadetemplate = jade.compile(fs.readFileSync('./views/html_file.jade', 'utf8'),
+	    	{
+	    		filename:'./views/html_file.jade',
+	    		pretty:$this.options.pretty
+	    	});
 	    var html = jadetemplate({
 	    	rec:data,
 	    	fields:fields,
