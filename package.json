@@ -2,18 +2,12 @@
   "name": "kindle-my-clippings",
   "version": "0.0.1",
   "description": "Amazon Kindle My Clippings.txt file to JSON / html parser",
-  "keywords": [
-    "parser",
-    "kindle",
-    "clippings",
-    "ebook"
-  ],
+  "keywords": ["parser","kindle","clippings","ebook"],
   "author": {
     "name": "Marcin Baniowski",
     "email": "marcin@baniowski.pl"
   },
   "dependencies": {
-    "fs": "*",
     "jade": "0.27.7",
     "dateformat": "1.0.4-1.2.3",
     "jquery":"1.8.3"
@@ -22,11 +16,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/baniol/kindle-my-clippings"
-  },
-  "readme": "asdfasdf",
-  "_id": "kindle-my-clippings@0.0.1",
-  "dist": {
-    "shasum": "5f44929e2f1383f515ffa4379a90a2f2acf673af"
-  },
-  "_from": "kindle-my-clippings@*"
+  }
 }

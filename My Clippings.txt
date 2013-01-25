@@ -1768,3 +1768,603 @@ Building Node Applications with MongoDB and Backbone (Mike Wilson)
 
 Remember that JavaScript is not a class-based language, so the this keyword won’t always refer to the object from which it is called. 
 ==========
+Wypalanie traw (Wojciech Jagielski)
+- Note Loc. 898  | Added on Tuesday, 1 January 13 18:34:37 GMT+00:59
+
+tu koniec
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 53 | Loc. 924  | Added on Tuesday, 1 January 13 23:44:12 GMT+00:59
+
+they don’t really have much of anything to do with one another. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 53 | Loc. 927  | Added on Tuesday, 1 January 13 23:45:19 GMT+00:59
+
+The fatigue and backache are getting to me now. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 54 | Loc. 934  | Added on Tuesday, 1 January 13 23:47:04 GMT+00:59
+
+By the time we reach Lemmon we are really aching tired. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 54 | Loc. 943-44  | Added on Tuesday, 1 January 13 23:49:08 GMT+00:59
+
+The wind blows from the horizon across the lake and hits us with sharp gusts. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 54 | Loc. 944  | Added on Tuesday, 1 January 13 23:49:57 GMT+00:59
+
+There are some scrubby pines back from the road about twenty yards 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 54 | Loc. 947  | Added on Tuesday, 1 January 13 23:50:52 GMT+00:59
+
+John has gathered wood but it’s too big and the wind is so gusty it’s hard to start. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 54 | Loc. 947-48  | Added on Tuesday, 1 January 13 23:51:56 GMT+00:59
+
+John has gathered wood but it’s too big and the wind is so gusty it’s hard to start. It needs to be splintered into kindling. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 56 | Loc. 965  | Added on Tuesday, 1 January 13 23:55:52 GMT+00:59
+
+tarp. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 58 | Loc. 1001-2  | Added on Wednesday, 2 January 13 00:01:59 GMT+00:59
+
+My cigarette is down to my fingers and I put it out. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 59 | Loc. 1019  | Added on Wednesday, 2 January 13 08:09:29 GMT+00:59
+
+Now it’s just a faked-up attitude half the time, like teachers the first day of class. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 59 | Loc. 1019-20  | Added on Wednesday, 2 January 13 08:09:59 GMT+00:59
+
+But what do they really know about kindness who are not kin? 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 59 | Loc. 1021-22  | Added on Wednesday, 2 January 13 08:10:32 GMT+00:59
+
+Mein Kinder…“Wer reitet so spät durch Nacht und Wind? Es ist der Vater mit seinem Kind.” 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 59 | Loc. 1027  | Added on Wednesday, 2 January 13 08:13:55 GMT+00:59
+
+rustling of the leaves in the wind 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 60 | Loc. 1035  | Added on Wednesday, 2 January 13 08:16:58 GMT+00:59
+
+We douse the fire 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 60 | Loc. 1036-37  | Added on Wednesday, 2 January 13 08:17:36 GMT+00:59
+
+The mosquito repellent doesn’t stop them at all. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 534-36  | Added on Wednesday, 2 January 13 21:33:41 GMT+00:59
+
+Take the number 100×99×98×97×…×3×2×1. This number is known as 100 factorial, and written as 100! We’re going to use an important fact about this number: if you take any number between 1 and 100, then 100! is divisible by this number. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 547-48  | Added on Wednesday, 2 January 13 21:42:32 GMT+00:59
+
+the erratic way in which the primes seem to be scattered through the universe of numbers. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 551  | Added on Wednesday, 2 January 13 21:45:15 GMT+00:59
+
+the number of petals on a sunflower. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 551-54  | Added on Wednesday, 2 January 13 21:51:20 GMT+00:59
+
+Count the number of petals on a sunflower. Often there are 89, a prime number. The number of pairs of rabbits after 11 generations is also 89. Have rabbits and flowers discovered some secret formula for finding primes? Not exactly. They like 89 not because it is prime, but because it is one of nature’s other favourite numbers: the Fibonacci numbers. The Italian mathematician Fibonacci of Pisa discovered this important sequence of numbers in 1202 when he was trying to understand the way rabbits multiply (in the biological rather than the mathematical sense). 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 574  | Added on Wednesday, 2 January 13 22:07:00 GMT+00:59
+
+wilting flowers. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 577  | Added on Wednesday, 2 January 13 22:10:14 GMT+00:59
+
+Cut open an apple with a slice halfway between the stalk and the base, and you’ll see a 5-pointed star. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 583-87  | Added on Wednesday, 2 January 13 22:21:34 GMT+00:59
+
+Actually these numbers shouldn’t be named after Fibonacci at all, because he was not the first to stumble across them. In fact they weren’t discovered by mathematicians at all, but by poets and musicians in medieval India. Indian poets and musicians were keen to explore all the possible rhythmic structures you can generate by using combinations of short and long rhythmic units. If a long sound is twice the length of a short sound, then how many different patterns are there with a set number of beats? For example, with eight beats you could do four long sounds or eight short ones. But there are lots of combinations between these two extremes. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 603-4  | Added on Wednesday, 2 January 13 22:31:17 GMT+00:59
+
+Legend has it that chess was invented in India by a mathematician. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 606-7  | Added on Wednesday, 2 January 13 22:32:23 GMT+00:59
+
+The King readily agreed, astonished that the mathematician wanted so little—but he was in for a shock. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 617-20  | Added on Wednesday, 2 January 13 22:34:47 GMT+00:59
+
+mathematicians had been on the look-out for clever formulas that might generate bigger and bigger primes. One of the best of these formulas was discovered by a French monk called Marin Mersenne. Mersenne was a close friend of Pierre de Fermat and René Descartes, and he functioned like a seventeenth-century Internet hub, receiving letters from scientists all across Europe and communicating ideas to those he thought could develop them further. 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 634  | Added on Wednesday, 2 January 13 22:38:55 GMT+00:59
+
+Swiss mathematician Leonhard Euler, 
+==========
+The Number Mysteries: A Mathematical Odyssey through Everyday Life (Marcus du Sautoy)
+- Highlight Loc. 652  | Added on Wednesday, 2 January 13 22:42:15 GMT+00:59
+
+In a cruel twist of fate, 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 60 | Loc. 1044  | Added on Wednesday, 2 January 13 23:05:05 GMT+00:59
+
+Later I hear a sharp inhaling of phlegm that tells me he has been crying, 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 61 | Loc. 1046-47  | Added on Wednesday, 2 January 13 23:06:08 GMT+00:59
+
+Consoling words are more for strangers, for hospitals, not kin. Little emotional Band-Aids like that aren’t what he needs or what’s sought…. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 61 | Loc. 1051-52  | Added on Wednesday, 2 January 13 23:08:15 GMT+00:59
+
+And in the fog there appears an intimation of a figure. It disappears when I look at it directly, but then reappears in the corner of my vision when I turn my glance. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 61 | Loc. 1059-60  | Added on Wednesday, 2 January 13 23:09:46 GMT+00:59
+
+I get up puffy-eyed 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 62 | Loc. 1063  | Added on Wednesday, 2 January 13 23:11:38 GMT+00:59
+
+Not a bit of moisture in the sky. Today’s going to be a scorcher. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 62 | Loc. 1073-74  | Added on Wednesday, 2 January 13 23:14:55 GMT+00:59
+
+I grab the bottom of the sleeping bag, give it a mighty tablecloth jerk, and he is out of it, blinking in the pine needles. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 63 | Loc. 1082  | Added on Wednesday, 2 January 13 23:16:33 GMT+00:59
+
+the rear tire is worn way down. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 63 | Loc. 1083-84  | Added on Wednesday, 2 January 13 23:17:47 GMT+00:59
+
+“Thread’s stripped in the chain adjustment.” 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 84 | Loc. 4137-48  | Added on Wednesday, 9 January 13 22:41:17 GMT+00:59
+
+var statusCollection = new StatusCollection(); statusCollection.url = '/accounts/me/activity'; statusCollection.fetch(); In this example, a status collection was created to store all activity status updates for the account with ID of “me”. When the fetch command is called, Backbone connects to /accounts/me/activity and uses the results to fill the status collection. 
+==========
+Building Node Applications with MongoDB and Backbone (Mike Wilson)
+- Highlight on Page 85 | Loc. 4242-43  | Added on Wednesday, 9 January 13 22:44:43 GMT+00:59
+
+In the coming chapters we will discuss how to close security holes like this by taking advantage of connect’s middleware. 
+==========
+Wypalanie traw (Wojciech Jagielski)
+- Highlight Loc. 1598-1601  | Added on Friday, 11 January 13 20:15:18 GMT+00:59
+
+Jak większość białych obywateli kraju Raymond Boardman nie zajmował się polityką. Przeglądał w pracy gazety, a jadąc samochodem, słuchał w radiu wiadomości, ale nie przywiązywał do tego większej wagi. Był zadowolonym z siebie człowiekiem, przekonanym, że wszystko, co zdobył, zawdzięcza tylko sobie, swoim zdolnościom i ciężkiej pracy. I że to, jak się komu życie ułoży, zależy wyłącznie od niego samego.
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 65 | Loc. 1108-11  | Added on Friday, 11 January 13 23:16:42 GMT+00:59
+
+The world of underlying form is an unusual object of discussion because it is actually a mode of discussion itself. You discuss things in terms of their immediate appearance or you discuss them in terms of their underlying form, and when you try to discuss these modes of discussion you get involved in what could be called a platform problem. You have no platform from which to discuss them other than the modes themselves. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 65 | Loc. 1115-16  | Added on Friday, 11 January 13 23:18:27 GMT+00:59
+
+I want to divide human understanding into two kinds—classical understanding and romantic understanding. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 65 | Loc. 1118-19  | Added on Friday, 11 January 13 23:18:43 GMT+00:59
+
+A classical understanding sees the world primarily as underlying form itself. A romantic understanding sees it primarily in terms of immediate appearance. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 65 | Loc. 1118-22  | Added on Friday, 11 January 13 23:19:46 GMT+00:59
+
+A classical understanding sees the world primarily as underlying form itself. A romantic understanding sees it primarily in terms of immediate appearance. If you were to show an engine or a mechanical drawing or electronic schematic to a romantic it is unlikely he would see much of interest in it. It has no appeal because the reality he sees is its surface. Dull, complex lists of names, lines and numbers. Nothing interesting. But if you were to show the same blueprint or schematic or give the same description to a classical person he might look at it and then become fascinated by it because he sees that within the lines and shapes and symbols is a tremendous richness of underlying form. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 66 | Loc. 1138  | Added on Saturday, 12 January 13 08:43:46 GMT+00:59
+
+A real drag on society. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 67 | Loc. 1146-48  | Added on Saturday, 12 January 13 08:48:52 GMT+00:59
+
+Unusual behavior tends to produce estrangement in others which tends to further the unusual behavior and thus the estrangement in self-stoking cycles until some sort of climax is reached. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 67 | Loc. 1150  | Added on Saturday, 12 January 13 10:48:54 GMT+00:59
+
+“Going to be another rough one today,” 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 67 | Loc. 1152-53  | Added on Saturday, 12 January 13 10:50:37 GMT+00:59
+
+I tell him he eats with the rest of us or not all. Not angrily. Just matter-of-factly. He’s reproachful but sees how it’s going to be. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 67 | Loc. 1153  | Added on Saturday, 12 January 13 10:51:21 GMT+00:59
+
+I catch a fleeting look of relief from Sylvia. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 68 | Loc. 1155-56  | Added on Saturday, 12 January 13 10:51:59 GMT+00:59
+
+The sun makes the burned grass and sand so bright I have to squint to cut down glare. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 68 | Loc. 1156  | Added on Saturday, 12 January 13 10:52:21 GMT+00:59
+
+The broken concrete is tar-patched and bumpy. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 68 | Loc. 1157-61  | Added on Saturday, 12 January 13 10:53:50 GMT+00:59
+
+I’m just as happy to be thinking about the rational, analytical, classical world of Phaedrus. His kind of rationality has been used since antiquity to remove oneself from the tedium and depression of one’s immediate surroundings. What makes it hard to see is that where once it was used to get away from it all, the escape has been so successful that now it is the “it all” that the romantics are trying to escape. What makes his world so hard to see clearly is not its strangeness but its usualness. Familiarity can blind you too. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 68 | Loc. 1169  | Added on Saturday, 12 January 13 10:55:36 GMT+00:59
+
+The engine consists of a housing containing a power train, a fuel-air system, an ignition system, a feedback system and a lubrication system. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Note on Page 68 | Loc. 1169  | Added on Saturday, 12 January 13 10:56:16 GMT+00:59
+
+opis silnika
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 70 | Loc. 1193  | Added on Saturday, 12 January 13 11:02:11 GMT+00:59
+
+It is just duller than ditchwater. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 71 | Loc. 1212  | Added on Saturday, 12 January 13 11:05:32 GMT+00:59
+
+used it with dexterity 
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 16-18  | Added on Saturday, 12 January 13 11:09:39 GMT+00:59
+
+According to mainstream academic Western science, the history of the universe is the history of developing matter. Life, consciousness, and intelligence are more or less accidental and insignificant side products of this development.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 20-25  | Added on Saturday, 12 January 13 11:11:18 GMT+00:59
+
+Although religious activities are generally permitted, or even formally encouraged, from a strictly scientific point of view any involvement in spirituality appears to be and is interpreted as an irrational activity indicating emotional and intellectual immaturity --lack of education, primitive superstition, and regression to magical and infantile thinking. Direct experiences of spiritual realities are seen as manifestations of a serious mental disease, psychosis. Religion, bereft of its experiential component has largely lost the connection to its deep spiritual source and as a result of it has become empty, meaningless, and increasingly irrelevant in our life. In this form, it cannot compete with the persuasiveness of materialistic science backed up by its technological triumphs.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 26-29  | Added on Saturday, 12 January 13 11:13:08 GMT+00:59
+
+Under these circumstances, religion has ceased to be a vital force during our life, as well as at the time of dying and death. Its references to life after death, the posthumous adventures of the soul, and the abodes of the Beyond, such as heaven and hell, have been relegated to the realm of fairy tales and handbooks of psychiatry. The entire spiritual history of humanity has been pathologized. At the cradle of all the great religions of the world were transpersonal experiences of their founders, prophets, and saints.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 40-41  | Added on Saturday, 12 January 13 11:15:39 GMT+00:59
+
+According to Western neuroscience, consciousness is an epiphenomenon of matter, a product of the physiological processes in the brain, and thus critically dependent on the body.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 44-46  | Added on Saturday, 12 January 13 11:16:24 GMT+00:59
+
+Very few people, including most scientists, realize that we have absolutely no proof that consciousness is actually produced by the brain and not even a remote notion how something like that could possibly happen.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 48-51  | Added on Saturday, 12 January 13 11:17:11 GMT+00:59
+
+The rare reports on this subject received very little attention, whether they came in the form of books for general public, such as Jess E. Weisse's The Vestibule (Weisse 1972) and Jean-Baptiste Delacour's Glimpses of the Beyond (Delacour 1974), or scientific research, such as the study of death-bed observations of physicians and nurses conducted by Karlis Osis (Osis 1961).
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 51-53  | Added on Saturday, 12 January 13 11:17:46 GMT+00:59
+
+Raymond Moody's international bestseller Life After Life in 1975, Elizabeth Kübler-Ross, Ken Ring, Michael Sabom, and other pioneers of thanatology have amassed impressive evidence about the amazing characteristics of near-death experiences from accurate extrasensory perception during out-of-body experiences to profound personality changes following them.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 54-56  | Added on Saturday, 12 January 13 11:18:26 GMT+00:59
+
+Yet, these potentially paradigm-shattering observations that could revolutionize our understanding of the nature of consciousness and its relationship to the brain are still dismissed by most professionals as irrelevant hallucinations produced by a biological crisis.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 58-61  | Added on Saturday, 12 January 13 11:19:22 GMT+00:59
+
+People dying in Western societies also often lack effective human support that would ease their transition. We try to protect ourselves from the emotional discomfort that death induces. The industrial world tends to remove sick and dying people into hospitals and nursing homes. The emphasis is on life-support systems and mechanical prolongation of life, often beyond any reasonable limits, rather than the quality of the human environment.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 67-69  | Added on Saturday, 12 January 13 11:20:50 GMT+00:59
+
+Much of our encounter with death comes in a sanitized form, where a team of professionals mitigates its immediate impact. In its extreme expression, it includes postmortem barbers and hairdressers, taylors, make-up experts, and plastic surgeons who make a wide variety of cosmetic adjustments on the corpse before it is shown to relatives and friends.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 70-72  | Added on Saturday, 12 January 13 11:21:35 GMT+00:59
+
+Movies and TV shows further trivialize death by capitalizing on violence. They immunize modern audiences against its emotional relevance by exposing them to countless scenes of dying, killing, and murder in the context of entertainment.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 72-73  | Added on Saturday, 12 January 13 11:21:55 GMT+00:59
+
+In general, the conditions of life existing in modern technologized countries do not offer much ideological or psychological support for people who are facing death.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 75-76  | Added on Saturday, 12 January 13 11:22:43 GMT+00:59
+
+life or existence continues in some form after 4 the biological demise.
+==========
+When the Impossible Happens (Stanislav Grof)
+- Highlight on Page 1 | Loc. 136-38  | Added on Saturday, 12 January 13 11:28:13 GMT+00:59
+
+Since 1975, my wife, Christina, and I have worked with Holotropic Breathwork, a powerful method of therapy and self-exploration that we jointly developed at the Esalen Institute in Big Sur, California.
+==========
+When the Impossible Happens (Stanislav Grof)
+- Highlight on Page 1 | Loc. 140-47  | Added on Saturday, 12 January 13 11:30:32 GMT+00:59
+
+non-ordinary states of consciousness or, more specifically, an important sub-category of them that I call “holotropic.” This composite word literally means “oriented toward wholeness” or “moving in the direction of wholeness” (from the Greek holos, whole, and trepein, moving toward or in the direction of something). This term suggests that in our everyday state of consciousness we identify with only a small fraction of who we really are. The best way of explaining what holotropic means is to refer to the Hindu distinction between namarupa (the name and shape that we have in our everyday existence) and Atman-Brahman (our deepest identity, which is commensurate with the cosmic creative principle). In holotropic states of consciousness, we can transcend the narrow boundaries of the body ego and reclaim our full identity. We can experientially identify with anything that is part of creation and even with the creative principle itself.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 84-86  | Added on Saturday, 12 January 13 13:41:13 GMT+00:59
+
+the Tibetan Bardo Thödol. This important text of Tibetan Buddhism represents an interesting counterpoint to the exclusive pragmatic emphasis on productive life and denial of death characterizing the Western civilization.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 86-88  | Added on Saturday, 12 January 13 13:46:51 GMT+00:59
+
+It describes the time of death as a unique opportunity for spiritual liberation from the cycles of death and rebirth and a period that determines our next incarnation, if we do not achieve liberation. In this context, it is possible to see the intermediate state between lives (bardo) as being in a way more important than incarnate existence. It is then essential to prepare for this time by systematic practice during our lifetime.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 92  | Added on Saturday, 12 January 13 13:48:00 GMT+00:59
+
+can be a profoundly shattering experience.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 98-99  | Added on Saturday, 12 January 13 13:49:43 GMT+00:59
+
+the beautiful images of primeval animals painted and carved on the walls of the great caves in Southern France and northern Spain, such as Lascaux, Font de Gaume, Les Trois Frères, Altamira,
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 105  | Added on Saturday, 12 January 13 13:50:48 GMT+00:59
+
+painful and frightening ordeals,
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 109-10  | Added on Saturday, 12 January 13 13:51:55 GMT+00:59
+
+They employ powerful mind-altering technologies and the experiences induced by them revolve around the trias birth-sex-death.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 111-12  | Added on Saturday, 12 January 13 13:52:21 GMT+00:59
+
+various non-drug experiential approaches (such as the Holotropic Breathwork)
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 113-16  | Added on Saturday, 12 January 13 13:53:10 GMT+00:59
+
+Closely related to the rites of passage were the ancient mysteries of death and rebirth, complex sacred and secret procedures that were also using powerful mind-altering techniques. They were particularly prevalent in the Mediterranean area, as 6 exemplified by the Babylonian ceremonies of Inanna and Tammuz, the Egyptian mysteries of Isis and Osiris, the Orphic Cult, the Bacchanalia, the Eleusinian mysteries, the Corybantic rites, and the mysteries of Attis and Adonis.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 117-19  | Added on Saturday, 12 January 13 13:53:50 GMT+00:59
+
+The most famous of them were the Eleusinian mysteries that were conducted near Athens every five years without interruption for a period of almost 2,000 years. According to a modern study by Wasson, Hofmann, and Ruck, the ritual potion ("kykeon") used in these mysteries contained ergot preparations related closely to LSD
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 120-23  | Added on Saturday, 12 January 13 20:10:40 GMT+00:59
+
+various mystical traditions and the great spiritual philosophies of the East. Here belong the various systems of yoga, the theory and practice of Buddhism, Taoism, the Tibetan Vajrayana, Sufism, Christian mysticism, the Kabbalah, and many others. These systems developed effective forms of prayers, meditations, movement meditations, breathing exercises, and other powerful techniques for inducing NOSC with profoundly spiritual components.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 126-27  | Added on Saturday, 12 January 13 20:12:16 GMT+00:59
+
+the books of the dead, such as the Tibetan Bardo Thödol, the Egyptian Pert em hru, the Aztec Codex Borgia, or the European Ars moriendi.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 134  | Added on Sunday, 13 January 13 08:55:34 GMT+00:59
+
+to induce these states.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 139-44  | Added on Sunday, 13 January 13 22:47:44 GMT+00:59
+
+thanatology, the new scientific discipline specifically studying death and dying. Thanatological studies of near-death states by people like Raymond Moody (Life After Life)(Moody 1975), Kenneth Ring (Life at Death and Heading Toward Omega)(Ring 1982, 1985), Michael Sabom (Recollections of Death)(Sabom 1982), Bruce Greyson and Charles Flynn (The Near Death Experience)(Greyson and Flynn 1984) showed that the experiences associated with life-threatening situations bear a deep resemblance to the descriptions from the ancient books of the dead, as well as those reported by subjects in psychedelic sessions and modern experiential psychotherapy.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 146-51  | Added on Sunday, 13 January 13 22:49:13 GMT+00:59
+
+The experiences involved seem to transcend race and culture and originate in the collective unconscious as described by C.G.Jung. It is possible to spend one's entire lifetime without ever experiencing these realms or even without being aware of their existence, until one is catapulted into them at the time of biological death. However, for some people this experiential area becomes available during their lifetime in a variety of situations including psychedelic sessions or some other powerful forms of self-exploration, serious spiritual practice, participation in shamanic rituals, or during spontaneous psycho-spiritual crises. This opens up for them the possibility of experiential exploration of these territories of the psyche on their own terms so that the encounter with death does not come as a complete surprise when it is imposed on them at the time of biological demise.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 152-53  | Added on Sunday, 13 January 13 22:49:40 GMT+00:59
+
+expressed in a succinct way
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 152-53  | Added on Sunday, 13 January 13 22:50:11 GMT+00:59
+
+The Austrian Augustinian monk Abraham a Sancta Clara who lived in the seventeenth century, expressed in a succinct way the importance of the experiential practice of dying: "The man who dies before he dies does not die when he dies".
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 153-58  | Added on Sunday, 13 January 13 22:51:48 GMT+00:59
+
+This "dying before dying" has two important consequences: it liberates the individual from the fear of death and changes his or her attitude toward it, as well as influences the actual experience of dying at the time of the biological demise. However, this elimination of the fear of death, also transforms the individual's way of being in the world. For this reason, there is no fundamental difference between the preparation for death and the practice of dying, on the one hand, and spiritual practice leading to enlightenment, on the other. This is the reason why the ancient books of the dead could be used in both situations.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 165-68  | Added on Sunday, 13 January 13 22:54:34 GMT+00:59
+
+The only way the Newtonian-Cartesian worldview of Western science can be maintained is by systematic suppression or misinterpretation of all the evidence generated by consciousness studies, whether its source is history, anthropology, comparative religion, or various areas of modern research, such as parapsychology, thanatology, psychedelic therapy, biofeedback, sensory deprivation, experiential psychotherapies, or the work with individuals in psychospiritual crises ("spiritual emergencies").
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 208-9  | Added on Sunday, 13 January 13 23:01:37 GMT+00:59
+
+According to materialistic science, any memory requires a material substrate, such as the neuronal network in the brain or the DNA molecules of the genes.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 214-16  | Added on Sunday, 13 January 13 23:02:56 GMT+00:59
+
+Heinz von Foerster (von Foerster 1965), Rupert Sheldrake (Sheldrake 1981), and Ervin Laszlo (1994) seriously explore such possibilities as "memory without a material substrate", "morphogenetic fields", and the record of all events from the history of the universe in the subquantum “psi-field”.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 231-32  | Added on Sunday, 13 January 13 23:05:26 GMT+00:59
+
+A number of cases have been reported, in which a dying individual has a vision of a person about whose death he or she did not know; these have been referred to as "peak in Darien" cases.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 249-51  | Added on Sunday, 13 January 13 23:08:34 GMT+00:59
+
+Veridical OOBEs do not occur only in the context of near-death situations, vital emergencies, and episodes of clinical death. They can emerge in the sessions of powerful experiential psychotherapy (such as primal therapy, rebirthing, or Holotropic Breathwork), in the context of experiences induced by psychedelics (particularly the dissociative anesthetic ketamine), and also spontaneously.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 265-68  | Added on Sunday, 13 January 13 23:10:52 GMT+00:59
+
+For the Hindus, Buddhists, and also for open-minded and knowledgeable consciousness researchers, reincarnation is not a matter of belief, but an empirical issue, based on a variety of experiences and observations. According to Christopher Bache, the evidence in this area is so rich and extraordinary that scientists who do not think the problem of reincarnation deserves serious study are "either uninformed or thickheaded"
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 390-91  | Added on Monday, 14 January 13 21:50:41 GMT+00:59
+
+even our current memories cannot always be corroborated,
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 394-95  | Added on Monday, 14 January 13 21:51:28 GMT+00:59
+
+sessions of primal therapy and continued in sessions of Holotropic Breathwork.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 501  | Added on Monday, 14 January 13 22:15:42 GMT+00:59
+
+In one of his LSD sessions, Richard had a very unusual experience involving a strange and uncanny astral realm.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 589-90  | Added on Monday, 14 January 13 22:34:22 GMT+00:59
+
+confronting this material and coming to terms with the fear of death is conducive to healing, positive personality transformation, and consciousness evolution.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 591-93  | Added on Monday, 14 January 13 22:35:15 GMT+00:59
+
+As we discussed in connection with the ancient mysteries of death and rebirth, this "dying before dying" influences deeply the quality of life and the basic strategy of existence. It reduces irrational drives ("rat race" or "treadmill" type of existence) and increases the ability to live in the present and to enjoy simple life activities.
+==========
+Microsoft Word - deathanddying (Unknown)
+- Highlight Loc. 602  | Added on Tuesday, 15 January 13 22:33:59 GMT+00:59
+
+unbridled greed,
+==========
+The Fourth Awakening (Rod Pennington and Jeffery A. Martin)
+- Highlight on Page 2 | Loc. 132  | Added on Tuesday, 15 January 13 22:38:02 GMT+00:59
+
+The background noise faded and Penelope heard a door click shut. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 72 | Loc. 1222-23  | Added on Wednesday, 16 January 13 23:23:10 GMT+00:59
+
+THE air is like a furnace blast 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 72 | Loc. 1224-25  | Added on Wednesday, 16 January 13 23:24:14 GMT+00:59
+
+On the road ahead a crow tugs on some carrion and flies up slowly as we approach. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 72 | Loc. 1225-26  | Added on Wednesday, 16 January 13 23:24:53 GMT+00:59
+
+On the horizon appears an image of buildings, shimmering slightly. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 73 | Loc. 1247  | Added on Wednesday, 16 January 13 23:28:41 GMT+00:59
+
+Not a blade of grass anywhere. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 73 | Loc. 1249  | Added on Wednesday, 16 January 13 23:29:53 GMT+00:59
+
+sizzle. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 73 | Loc. 1248-50  | Added on Wednesday, 16 January 13 23:30:40 GMT+00:59
+
+Beside it I see the left exhaust pipe has picked up a bluer color than it has ever had before. I spit on my glove tips, touch it and can see the sizzle. Not good. It’s important now to just live with this and not fight it mentally…mind control…. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 74 | Loc. 1257-58  | Added on Thursday, 17 January 13 22:04:19 GMT+00:59
+
+We take a handful of sand from the endless landscape of awareness around us and call that handful of sand the world. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 75 | Loc. 1265-66  | Added on Thursday, 17 January 13 22:07:53 GMT+00:59
+
+Classical understanding is concerned with the piles and the basis for sorting and interrelating them. Romantic understanding is directed toward the handful of sand before the sorting begins. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 75 | Loc. 1267-70  | Added on Thursday, 17 January 13 22:09:32 GMT+00:59
+
+What has become an urgent necessity is a way of looking at the world that does violence to neither of these two kinds of understanding and unites them into one. Such an understanding will not reject sand-sorting or contemplation of unsorted sand for its own sake. Such an understanding will instead seek to direct attention to the endless landscape from which the sand is taken. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 75 | Loc. 1279-80  | Added on Thursday, 17 January 13 22:11:51 GMT+00:59
+
+When analytic thought, the knife, is applied to experience, something is always killed in the process. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 76 | Loc. 1286  | Added on Thursday, 17 January 13 22:13:31 GMT+00:59
+
+I beep the horn in response, 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 77 | Loc. 1300-1304  | Added on Thursday, 17 January 13 22:18:36 GMT+00:59
+
+a ghost which calls itself rationality but whose appearance is that of incoherence and meaninglessness, which causes the most normal of everyday acts to seem slightly mad because of their irrelevance to anything else. This is the ghost of normal everyday assumptions which declares that the ultimate purpose of life, which is to keep alive, is impossible, but that this is the ultimate purpose of life anyway, so that great minds struggle to cure diseases so that people may live longer, but only madmen ask why. One lives longer in order that he may live longer. There is no other purpose. That is what the ghost says. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 78 | Loc. 1322  | Added on Tuesday, 22 January 13 23:41:06 GMT+00:59
+
+and so take up the slack in the ropes and retie them. 
+==========
+Advanced Spanish Step-by-Step : Master Accelerated Grammar to Take Your Spanish to the Next Level (Easy Step-by-Step Series) (Barbara Bregstein)
+- Highlight Loc. 398  | Added on Wednesday, 23 January 13 22:46:35 GMT+00:59
+
+“es mejor estar sola que mal acompañada”.
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 85 | Loc. 1423-24  | Added on Thursday, 24 January 13 17:46:00 GMT+00:59
+
+Then the rain comes hard on the road with a gust of earth-smell from the dust 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 85 | Loc. 1425  | Added on Thursday, 24 January 13 17:46:25 GMT+00:59
+
+My clothes become wet, and goggles are spattered, 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 89 | Loc. 1440  | Added on Thursday, 24 January 13 17:49:34 GMT+00:59
+
+It was just numbskull laughter from too much fatigue. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 89 | Loc. 1441  | Added on Thursday, 24 January 13 17:50:16 GMT+00:59
+
+a beautiful old enameled cast-iron bathtub 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 90 | Loc. 1451-53  | Added on Thursday, 24 January 13 17:54:15 GMT+00:59
+
+the knack is almost purely a process of reason, and most of the troubles are caused by what old time radio men called a “short between the ear-phones,” failures to use the head properly. 
+==========
+Zen and the Art of Motorcycle Maintenance (Robert M. Pirsig)
+- Highlight on Page 90 | Loc. 1456  | Added on Thursday, 24 January 13 17:55:16 GMT+00:59
+
+Talk about rationality can get very confusing unless the things with which rationality deals are also included. 
+==========
