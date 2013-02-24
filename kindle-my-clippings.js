@@ -1,5 +1,6 @@
 var fs = require('fs'),
-	$ = require('jquery'),
+	//$ = require('jquery'),
+	_ = require('underscore'),
 	dateFormat = require('dateformat'),
   	jade = require('jade')
   	fs = require('fs')
@@ -31,7 +32,7 @@ var Clip = function(options){
 	};
 
 	/* merge defaults and options, without modifying defaults */
-	this.options = $.extend({}, defaults, options);
+	this.options = _.extend({}, defaults, options);
 };
 
 Clip.prototype.getFileContent = function(file,fn){
@@ -88,7 +89,7 @@ Clip.prototype.getSecondLine = function(lines){
 			// @todo - describe time parsing
 			if(el.match(/Added on/)){
 				var ti = el.split(',');
-				var strTime = $.trim(ti[1]);
+				var strTime = this.trim(ti[1]);
 				strTime = strTime.replace('Greenwich Mean Time','GMT');
 				var m = new Date(strTime);
 				var timeFormatted = m.getTime();
@@ -119,13 +120,13 @@ Clip.prototype.getSecondLine = function(lines){
 			// on Page (if exists)
 			if(el.match(/on Page/)){
 				var p = el.split('on Page');
-				singleRecord.page = $.trim(p.pop());
+				singleRecord.page = this.trim(p.pop());
 			}
 
 			// location
 			if(el.match(/Loc./)){
 				var l = el.split('Loc.');
-				singleRecord.location = $.trim(l.pop());
+				singleRecord.location = this.trim(l.pop());
 			}
 		}
 		return  singleRecord;
@@ -136,7 +137,7 @@ Clip.prototype.getSecondLine = function(lines){
 
 Clip.prototype.getThirdLine = function(lines){
 	if(lines[2] !== undefined){
-		return $.trim(lines[2]);
+		return this.trim(lines[2]);
 	}else{
 		return false;
 	}
@@ -208,35 +209,35 @@ Clip.prototype.parse = function(file,callback){
 			// first line - title and author
 			var first = $this.getFirstLine(lines);
 			if(first){
-				if($.inArray('title',$this.options.fields) != -1)
+				if($this.options.fields.indexOf('title') != -1)
 					singleRecord.title = first.title;
-				if($.inArray('author',$this.options.fields) != -1)
+				if($this.options.fields.indexOf('author') != -1)
 					singleRecord.author = first.author;
 			}
 
 			// second line - type, location, time
 			var second = $this.getSecondLine(lines);
 			if(second){
-				if($.inArray('time',$this.options.fields) != -1)
+				if($this.options.fields.indexOf('time') != -1)
 					singleRecord.time = second.time;
-				if($.inArray('type',$this.options.fields) != -1)
+				if($this.options.fields.indexOf('type') != -1)
 					singleRecord.type = second.type;
-				if($.inArray('location',$this.options.fields) != -1)
+				if($this.options.fields.indexOf('location') != -1)
 					singleRecord.location = second.location;
-				if($.inArray('page',$this.options.fields) != -1)
+				if($this.options.fields.indexOf('page') != -1)
 					singleRecord.page = second.page;
 			}
 
 			// third line - content
 			var third = $this.getThirdLine(lines);
 			if(third){
-				if($.inArray('text',$this.options.fields) != -1)
+				if($this.options.fields.indexOf('text') != -1)
 					singleRecord.text = third;
 			}
 
 			// push record to collection
 			// @todo - take from options.displayType
-			if($.inArray(second.type,$this.options.displayType) != -1)
+			if($this.options.displayType.indexOf(second.type) != -1)
 				col.push(singleRecord);
 
 		} // end of record iteration
@@ -283,6 +284,17 @@ Clip.prototype.parse = function(file,callback){
 			console.log(output);
 		}
 	});
+}
+
+Clip.prototype.trim = function(str){
+	str = str.replace(/^\s+/, '');
+	for (var i = str.length - 1; i >= 0; i--) {
+		if (/\S/.test(str.charAt(i))) {
+			str = str.substring(0, i + 1);
+			break;
+		}
+	}
+	return str;
 }
 
 module.exports = Clip;

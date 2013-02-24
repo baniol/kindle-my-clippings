@@ -1,6 +1,6 @@
 {
   "name": "kindle-my-clippings",
-  "version": "0.1",
+  "version": "0.1.1",
   "description": "Amazon Kindle My Clippings.txt file to JSON / html parser",
   "keywords": ["parser","kindle","clippings","ebook"],
   "author": {
@@ -10,7 +10,7 @@
   "dependencies": {
     "jade": "0.27.7",
     "dateformat": "1.0.4-1.2.3",
-    "jquery":"1.8.3"
+    "underscore":"1.4.4"
   },
   "main": "./index.js",
   "readmeFile":"README.md",
