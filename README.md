@@ -16,3 +16,6 @@ You can change the default settings by editing index.js file in the module root 
 > `displayType` type of clippings to display. Available: Hightlight, Note, Bookmark (must begin with a capital letter)
 
 > `outputType` determines the final format of the file: `file` will result in a raw txt file containing JSON string; `html` will output a single html file (my_clippings.html), which you can open in a web browser.
+
+### [Example html output](http://clippings.baniowski.pl)
+
