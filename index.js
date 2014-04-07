@@ -1,15 +1,6 @@
-var Clip = require('./kindle-my-clippings');
+var Clip    = require('./kindle-my-clippings'),
+    options = require('./options');
 
-// kindle-my-clippings data structure & output options
-var options = {
-  formatDate: true,
-  // fields:['title','author','time','text','type','location','page'],
-  fields:['title','author','time','text','location'],
-  // fields:['title'],
-  displayType:['Highlight'],
-  outputType: 'html', // html | file
-  pretty:true
-};
 
 var clip = new Clip(options);
 clip.init(file);
