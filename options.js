@@ -1,7 +1,14 @@
 module.exports = {
   formatDate: true,
-  // fields:['title','author','time','text','type','location','page'],
-  fields: ['title', 'author', 'time', 'text', 'location'],
+  fields: [
+    'title',
+    'author',
+    'time',
+    'text',
+    'type',
+    'location',
+    'page'
+  ],
   displayType: ['Highlight'],
   outputType: 'html', // html | file
   pretty: true
