@@ -1,41 +1,56 @@
-var path = require('path'),
-  optimist = require('optimist'),
-  fs = require('fs'),
-  Clip = require('../kindle-my-clippings'),
-  options = require('../options');
+var path           = require('path'),
+    optimist       = require('optimist'),
+    spawn          = require('child_process').spawn,
+    fs             = require('fs'),
+    Clip           = require('../kindle-my-clippings'),
+    options        = require('../options');
+    deploySettings = require('../deploy-settings');
 
-var argv = optimist.argv;
-
-var currentDir = path.resolve(process.cwd()) + '/';
+var argv        = optimist.argv;
+var currentDir  = path.resolve(process.cwd()) + '/';
+var clip        = new Clip(options);
+var fileName    = argv._[1] || 'My Clippings.txt';
 
 var commands = {
 
   html: function() {
-
-    var clip = new Clip(options);
-    var fileName = argv._[1] || 'My Clippings.txt';
-    clip.init(currentDir + fileName);
+    this.exec();
   },
 
   json: function () {
-    var clip = new Clip(options);
-    // @TODO remove file - output to console ?
-    var fileName = argv._[1] || 'My Clippings.txt';
     clip.setOutput('json');
-    clip.init(currentDir + fileName);
+    this.exec();
   },
 
   object: function () {
-    // @TODO remove file - output to console ?
-    var clip = new Clip(options);
-    var fileName = argv._[1] || 'My Clippings.txt';
     clip.setOutput('object');
+    this.exec();
+  },
+
+  exec: function () {
     clip.init(currentDir + fileName);
   },
 
   version: function() {
     var pack = JSON.parse(fs.readFileSync(path.join(__dirname, '../package.json'), 'utf8'));
     console.log(pack.version);
+  },
+
+  deploy: function() {
+    var user  = deploySettings.user,
+        host  = deploySettings.host,
+        dir   = deploySettings.dir,
+        port  = deploySettings.port,
+        file  = deploySettings.file;
+
+    clip.init(currentDir + fileName, currentDir + file, function () {
+      console.log('Sending file ' + file + ' to : ' + user + '@' + host + ' : ' + dir);
+      spawn('scp', ['-P ' + port, currentDir + file, user + '@' + host + ':' + dir], {
+        env: process.env,
+        stdio: 'inherit'
+      });
+    });
+
   }
 
 };

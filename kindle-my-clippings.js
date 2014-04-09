@@ -5,7 +5,6 @@ var fs        = require('fs'),
   jade        = require('jade'),
   fs          = require('fs'),
   args        = process.argv,
-  // file        = 'My Clippings.txt',
   outputFile  = 'my_clippings.html';
 
 var Clip = function(options) {
@@ -135,14 +134,15 @@ Clip.prototype.getThirdLine = function(lines) {
   }
 };
 
-Clip.prototype.init = function(file) {
+Clip.prototype.init = function(sourceFile, targetFile, fn) {
+  targetFile = targetFile || outputFile;
   var $this = this;
   var fields = {};
   this.options.fields.forEach(function(f) {
     fields[f] = true;
   });
   // redirect output to html file
-  this.parse(file, function(data) {
+  this.parse(sourceFile, function(data) {
     var selectTitle = $this.getTitles(data);
     // selectTitle.unshift('All titles');
     var modulePath = path.dirname(require.main.filename);
@@ -157,11 +157,14 @@ Clip.prototype.init = function(file) {
       books: selectTitle
     });
     // writing content to a new html file
-    fs.writeFile(outputFile, html, function(err) {
+    fs.writeFile(targetFile, html, function(err) {
       if (err) {
         console.error("Error saving file %s", err);
       }
       console.log('html file saved!');
+      if (typeof fn === 'function') {
+        fn();
+      }
     });
   });
 
@@ -284,7 +287,6 @@ Clip.prototype.parse = function(file, callback) {
           }
         });
       });
-
       console.log(output);
     }
   });

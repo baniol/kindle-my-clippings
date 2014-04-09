@@ -5,9 +5,9 @@ module.exports = {
     'author',
     'time',
     'text',
-    'type',
-    'location',
-    'page'
+    // 'type',
+    'location'
+    // 'page'
   ],
   displayType: ['Highlight'],
   outputType: 'html', // html | file
