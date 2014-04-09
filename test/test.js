@@ -22,6 +22,7 @@ var expect = require('chai').expect;
 suite("Kindle clipping Tests", function() {
 
     var clip;
+    var clipData;
 
     setup(function () {
       clip = new Clip();
@@ -32,18 +33,17 @@ suite("Kindle clipping Tests", function() {
         expect(clip).to.be.ok;
     });
 
-    test('file reading', function(){
+    test('file reading', function(done){
       clip.getFileContent(__dirname + '/' + 'My Clippings.txt', function (data) {
+        clipData = data;
         expect(data).to.be.a('string');
+        done();
       });
     });
 
-    test('split file contents', function() {
-      clip.getFileContent(__dirname + '/' + 'My Clippings.txt', function (data) {
-        var output = clip.splitFileIntoRecords(data);
-        expect(data).to.be.instanceof(Array);
-        // expect(clip).to.be.ok;
-      });
+    test('if split clip data is an array', function() {
+      var output = clip.splitFileIntoRecords(clipData);
+      expect(output).to.be.instanceof(Array);
     });
 
 });
