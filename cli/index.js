@@ -4,12 +4,17 @@ var path           = require('path'),
     fs             = require('fs'),
     Clip           = require('../kindle-my-clippings'),
     options        = require('../options');
-    deploySettings = require('../deploy-settings');
 
 var argv        = optimist.argv;
 var currentDir  = path.resolve(process.cwd()) + '/';
 var clip        = new Clip(options);
 var fileName    = argv._[1] || 'My Clippings.txt';
+
+fs.exists(__dirname + '../deploy-settings.js', function(exists) { 
+  if (exists) { 
+    var deploySettings = require('../deploy-settings'); 
+  } 
+}); 
 
 var commands = {
 
@@ -50,7 +55,6 @@ var commands = {
         stdio: 'inherit'
       });
     });
-
   }
 
 };
