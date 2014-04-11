@@ -42,13 +42,18 @@ Clip.prototype.splitFileIntoRecords = function(data) {
   return data.split('\r\n==========');
 };
 
+/**
+*
+* Block comment
+*
+**/
 Clip.prototype.splitRecord = function(record) {
   var line = record.split('\r\n');
   var lines = [];
   for (var j = 0; j < line.length; j++) {
     var l = line[j];
     if (l !== '') {
-      lines.push(l);
+      lines.push(l.trim());
     }
   }
   // if(lines.length > 0)
@@ -136,20 +141,20 @@ Clip.prototype.getThirdLine = function(lines) {
 
 Clip.prototype.init = function(sourceFile, targetFile, fn) {
   targetFile = targetFile || outputFile;
-  var $this = this;
+  var self = this;
   var fields = {};
   this.options.fields.forEach(function(f) {
     fields[f] = true;
   });
   // redirect output to html file
   this.parse(sourceFile, function(data) {
-    var selectTitle = $this.getTitles(data);
+    var selectTitle = self.getTitles(data);
     // selectTitle.unshift('All titles');
     var modulePath = path.dirname(require.main.filename);
     var jadeFile = path.join(modulePath, '../views/html_file.jade');
     var jadetemplate = jade.compile(fs.readFileSync(jadeFile, 'utf8'), {
       filename: jadeFile,
-      pretty: $this.options.pretty
+      pretty: self.options.pretty
     });
     var html = jadetemplate({
       rec: data,
@@ -183,11 +188,11 @@ Clip.prototype.getTitles = function(col) {
 
 Clip.prototype.parse = function(file, callback) {
 
-  var $this = this;
+  var self = this;
 
   this.getFileContent(file, function(data) {
     // split clippings into records
-    var arr = $this.splitFileIntoRecords(data);
+    var arr = self.splitFileIntoRecords(data);
 
     var col = [];
 
@@ -196,49 +201,49 @@ Clip.prototype.parse = function(file, callback) {
 
       var record = arr[i];
 
-      // split record into lines
-      var lines = $this.splitRecord(record);
+      // split record into lines (section of a record - title / time / text)
+      var lines = self.splitRecord(record);
 
       // initialize empty record object
       var singleRecord = {};
 
       // first line - title and author
-      var first = $this.getFirstLine(lines);
+      var first = self.getFirstLine(lines);
       if (first) {
-        if ($this.options.fields.indexOf('title') != -1)
+        if (self.options.fields.indexOf('title') !== -1)
           singleRecord.title = first.title;
-        if ($this.options.fields.indexOf('author') != -1)
+        if (self.options.fields.indexOf('author') !== -1)
           singleRecord.author = first.author;
       }
 
       // second line - type, location, time
-      var second = $this.getSecondLine(lines);
+      var second = self.getSecondLine(lines);
       if (second) {
-        if ($this.options.fields.indexOf('time') != -1)
+        if (self.options.fields.indexOf('time') !== -1)
           singleRecord.time = second.time;
-        if ($this.options.fields.indexOf('type') != -1)
+        if (self.options.fields.indexOf('type') !== -1)
           singleRecord.type = second.type;
-        if ($this.options.fields.indexOf('location') != -1)
+        if (self.options.fields.indexOf('location') !== -1)
           singleRecord.location = second.location;
-        if ($this.options.fields.indexOf('page') != -1)
+        if (self.options.fields.indexOf('page') !== -1)
           singleRecord.page = second.page;
       }
 
       // third line - content
-      var third = $this.getThirdLine(lines);
+      var third = self.getThirdLine(lines);
       if (third) {
-        if ($this.options.fields.indexOf('text') != -1)
+        if (self.options.fields.indexOf('text') !== -1)
           singleRecord.text = third;
       }
 
       // push record to collection
       // @todo - take from options.displayType
-      if ($this.options.displayType.indexOf(second.type) != -1)
+      if (self.options.displayType.indexOf(second.type) != -1)
         col.push(singleRecord);
 
     } // end of record iteration
 
-    if ($this.options.outputType == 'file') {
+    if (self.options.outputType == 'file') {
       var strObject = JSON.stringify(col);
       fs.writeFile("output.txt", strObject, function(err) {
         if (err) {
@@ -248,18 +253,18 @@ Clip.prototype.parse = function(file, callback) {
         }
       });
     } 
-    else if ($this.options.outputType == 'html') {
+    else if (self.options.outputType == 'html') {
       callback(col);
     }
     // @TODO code duplication
-    else if ($this.options.outputType == 'object') {
+    else if (self.options.outputType == 'object') {
       var jsonArray = [];
       col.forEach(function(el) {
         jsonArray.push(el);
       });
       console.log(jsonArray);
     } 
-    else if ($this.options.outputType == 'json') {
+    else if (self.options.outputType == 'json') {
       var jsonArray = [];
       col.forEach(function(el) {
         jsonArray.push(el);
@@ -267,7 +272,7 @@ Clip.prototype.parse = function(file, callback) {
       var jsonOutput = JSON.stringify(jsonArray);
       console.log(jsonOutput);
     } 
-    else if ($this.options.outputType == 'byTitle') {
+    else if (self.options.outputType == 'byTitle') {
       var titles = [];
       col.forEach(function(el) {
         titles.push(el.title);
