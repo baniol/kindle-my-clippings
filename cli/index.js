@@ -3,11 +3,14 @@ var path           = require('path'),
     spawn          = require('child_process').spawn,
     fs             = require('fs'),
     Clip           = require('../kindle-my-clippings'),
+    deploySettings = require('../deploy-settings'),
     options        = require('../options');
+
+var clip = new Clip(options);
 
 var argv        = optimist.argv;
 var currentDir  = path.resolve(process.cwd()) + '/';
-var clip        = new Clip(options);
+
 var fileName    = argv._[1] || 'My Clippings.txt';
 
 fs.exists(__dirname + '../deploy-settings.js', function(exists) { 
@@ -18,27 +21,44 @@ fs.exists(__dirname + '../deploy-settings.js', function(exists) {
 
 var commands = {
 
-  html: function() {
-    this.exec();
-  },
+  html: function(fn) {
+    var opts = {
+      file    : fileName,
+      format  : 'html'
+    };
 
-  json: function () {
-    clip.setOutput('json');
-    this.exec();
-  },
-
-  object: function () {
-    clip.setOutput('object');
-    this.exec();
-  },
-
-  exec: function () {
-    clip.init(currentDir + fileName);
+    clip.init(opts, function (data) {
+      if (typeof fn === 'function') {
+        fn();
+      }
+    });
   },
 
   version: function() {
     var pack = JSON.parse(fs.readFileSync(path.join(__dirname, '../package.json'), 'utf8'));
     console.log(pack.version);
+  },
+
+  auto: function () {
+    var self = this;
+    var pr = spawn('cp', ['/Volumes/Kindle/documents/' + fileName, currentDir], {
+        env: process.env,
+        stdio: 'inherit'
+      });
+    pr.on('close', function () {
+      self.html();
+    });
+  },
+
+  autodeploy: function () {
+    var self = this;
+    var pr = spawn('cp', ['/Volumes/Kindle/documents/' + fileName, currentDir], {
+        env: process.env,
+        stdio: 'inherit'
+      });
+    pr.on('close', function () {
+      self.deploy();
+    });
   },
 
   deploy: function() {
@@ -48,13 +68,17 @@ var commands = {
         port  = deploySettings.port,
         file  = deploySettings.file;
 
-    clip.init(currentDir + fileName, currentDir + file, function () {
+    this.html(function () {
       console.log('Sending file ' + file + ' to : ' + user + '@' + host + ' : ' + dir);
       spawn('scp', ['-P ' + port, currentDir + file, user + '@' + host + ':' + dir], {
         env: process.env,
         stdio: 'inherit'
       });
     });
+
+    // clip.init(currentDir + fileName, currentDir + file, function () {
+      
+    // });
   }
 
 };

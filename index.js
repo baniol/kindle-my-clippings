@@ -3,4 +3,5 @@ var Clip    = require('./kindle-my-clippings'),
 
 
 var clip = new Clip(options);
-clip.init(file);
+
+module.exports = clip;
