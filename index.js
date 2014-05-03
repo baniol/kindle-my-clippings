@@ -1,7 +1,3 @@
-var Clip    = require('./kindle-my-clippings'),
-    options = require('./options');
-
-
-var clip = new Clip(options);
-
-module.exports = clip;
+var Clip    = require('./kindle-my-clippings');
+var options = require('./options');
+module.exports = new Clip(options);

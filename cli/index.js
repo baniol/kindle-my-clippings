@@ -1,23 +1,20 @@
-var path           = require('path'),
-    optimist       = require('optimist'),
-    spawn          = require('child_process').spawn,
-    fs             = require('fs'),
-    Clip           = require('../kindle-my-clippings'),
-    deploySettings = require('../deploy-settings'),
-    options        = require('../options');
+var path           = require('path');
+var optimist       = require('optimist');
+var spawn          = require('child_process').spawn;
+var fs             = require('fs');
+var Clip           = require('../kindle-my-clippings');
+var options        = require('../options');
+var argv           = optimist.argv;
+var currentDir     = path.resolve(process.cwd()) + '/';
+var fileName       = argv._[1] || 'My Clippings.txt';
 
 var clip = new Clip(options);
 
-var argv        = optimist.argv;
-var currentDir  = path.resolve(process.cwd()) + '/';
-
-var fileName    = argv._[1] || 'My Clippings.txt';
-
-fs.exists(__dirname + '../deploy-settings.js', function(exists) { 
-  if (exists) { 
-    var deploySettings = require('../deploy-settings'); 
-  } 
-}); 
+fs.exists(__dirname + '../deploy-settings.js', function(exists) {
+  if (exists) {
+    var deploySettings = require('../deploy-settings');
+  }
+});
 
 var commands = {
 
@@ -75,32 +72,23 @@ var commands = {
         stdio: 'inherit'
       });
     });
-
-    // clip.init(currentDir + fileName, currentDir + file, function () {
-      
-    // });
   }
-
 };
 
 var main = function() {
-
   if (argv._[0]) {
-
     if (typeof commands[argv._[0]] === 'function') {
       commands[argv._[0]]();
-    } else {
+    }
+    else {
       console.log("'" + argv._[0] + "' - no such command");
       return process.exit(0);
     }
-
-  } else {
-
+  }
+  else {
     console.log('You must provide a command!');
     process.exit(0);
-
   }
-
 };
 
 module.exports.main = main;

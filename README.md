@@ -1,21 +1,43 @@
-## kindle My Clippings.txt parser to JSON / html
+## Kindle My Clippings.txt parser
 
-### Usage
+### Using as a module
 
-Put the source text file, originaly named **My Clippings.txt**, into the module root folder and run `node index.js`
-The above will create an output file: html or txt (with JSON string) - default is html.
+The module parses `My Clippings.txt` file into an object.
 
-### Settings
+The format of the returned object:
 
-You can change the default settings by editing index.js file in the module root folder:
+```
+{
+  title: 'What Every Web Developer Should Know About HTTP',
+  author: 'OdeToCode Programming Series',
+  time: 'Wednesday, April 30th, 2014, 10:50:53 PM',
+  location: '1315',
+  text: 'is encrypted and hashed to prevent tampering.'
+}
+```
 
-> `formatDate` set to false displays timestamp
+```javascript
+var kindleMyClippings = require('kindle-my-clippings');
 
-> `fields` set of fields (columns) displayed in the output file. Available: title, author, time, text, type, location, page
+var options = {
+  file: 'path_to_your_file',
+  format: 'object'
+};
 
-> `displayType` type of clippings to display. Available: Hightlight, Note, Bookmark (must begin with a capital letter)
+kindleMyClippings.init(options, function (data) {
+  // data is an object with parsed clippings
+});
+```
 
-> `outputType` determines the final format of the file: `file` will result in a raw txt file containing JSON string; `html` will output a single html file (my_clippings.html), which you can open in a web browser.
+You can choose `object` or `json` as format.
 
-### [Example html output](http://clippings.baniowski.pl)
+### Using as a CLI command
+
+You can parse your My Clippings.txt file into a searchable html file. [Example html output](http://clippings.baniowski.pl).
+
+First you have to install the module globally: `npm install kindle-my-clippings -g`.
+
+Running `kindle-my-clippings html` will produce an index.html file, providing you have a My 'Clippings.txt' file in the current folder.
+
+You can also explicitly specify a file: `kindle-my-clippings html your_file_name`.
 

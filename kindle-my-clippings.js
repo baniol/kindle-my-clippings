@@ -27,32 +27,21 @@ var Clip = function(options) {
 };
 
 Clip.prototype.init = function(opts, fn) {
-
   this.fileName = opts.file;
   this.format   = opts.format;
   this.callback = fn;
   this.getFileContent();
-
 };
 
-// Clip.prototype.getFileContent = function(fileName) {
-
-// };
-
 Clip.prototype.getFileContent = function() {
-
   var self = this;
-
   var fileName = process.cwd() + '/' + this.fileName;
-
   fs.readFile(fileName, 'utf8', function(error, data) {
     if (error) {
       // @TODO handle error
       console.log(error);
     } else {
       if (typeof self.callback === 'function') {
-        // console.log(data);
-        // self.callback(data);
         self.getParsed(data);
       } else {
         // @TODO handle error
@@ -97,25 +86,11 @@ Clip.prototype.generateHTMLFile = function(data) {
     });
 };
 
-// Clip.prototype.getFileContent = function(file, fn) {
-//   fs.readFile(file, 'utf8', function(err, data) {
-//     if (err) {
-//       return console.error("Error reading file %s", err);
-//     }
-//     fn(data);
-//   });
-// };
-
 Clip.prototype.splitFileIntoRecords = function(data) {
   // @todo check if file is kindle clippings valid format, contains ========== (take from tests ?)
   return data.split('\r\n==========');
 };
 
-/**
- *
- * Block comment
- *
- **/
 Clip.prototype.splitRecord = function(record) {
   var line = record.split('\r\n');
   var lines = [];
@@ -125,7 +100,6 @@ Clip.prototype.splitRecord = function(record) {
       lines.push(l.trim());
     }
   }
-  // if(lines.length > 0)
   return lines;
 };
 

@@ -1,7 +1,7 @@
 {
   "name": "kindle-my-clippings",
-  "version": "0.2.0",
-  "description": "Amazon Kindle My Clippings.txt file to JSON / html parser",
+  "version": "0.2.1",
+  "description": "Amazon Kindle My Clippings.txt file parser",
   "keywords": [
     "parser",
     "kindle",
