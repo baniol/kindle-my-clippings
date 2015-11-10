@@ -13,17 +13,14 @@
     "email": "marcin@baniowski.pl"
   },
   "dependencies": {
-    "jade": "0.27.7",
     "dateformat": "1.0.4-1.2.3",
-    "underscore": "1.4.4",
-    "optimist": "^0.6.1"
+    "minimist": "^1.2.0",
+    "underscore": "1.4.4"
   },
   "scripts": {
     "test": "make test"
   },
-  "bin": {
-    "kindle-my-clippings": "./bin/kindle-my-clippings"
-  },
+  "bin": "bin/cmd.js",
   "main": "./index.js",
   "readmeFile": "README.md",
   "repository": {

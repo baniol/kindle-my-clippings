@@ -3,9 +3,7 @@ var fs = require('fs'),
   path = require('path'),
   dateFormat = require('dateformat'),
   jade = require('jade'),
-  fs = require('fs'),
-  args = process.argv,
-  outputFile = 'my_clippings.html';
+  fs = require('fs');
 
 var Clip = function(options) {
 
