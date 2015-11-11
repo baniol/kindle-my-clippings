@@ -1,0 +1,19 @@
+usage: kindle-my-clippings {OPTIONS}
+
+  Parse 'My clippings.txt' file and return text or stringified JSON collection.
+
+OPTIONS:
+
+  -i, --input                  Input file. If none provided, the default
+                               is 'My Clippings.txt' in the current directory.
+
+  -o, --output [<file_name>]   If present, writes output into the 'file_name' file.
+                               Otherwise, prints the contents into the stdout.
+
+  -f, --format [text|json]     Output format: text or stringified JSON collection.
+
+  -l, --location               If present, shows location in text format.
+
+  -s, --start [<location>]     Displays records starting from a specified location.
+
+  -b, --book [<number>]        Returns a given book without displaying title list.

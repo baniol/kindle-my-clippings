@@ -102,18 +102,21 @@ function getTitles (file, cb) {
   });
 }
 
-function getBook(collection, title) {
+function getBook(collection, title, startFrom) {
+  var lock = !!startFrom;
   var book = collection.filter(function (obj) {
-    return obj.title === title;
+    if(lock && (startFrom === obj.location)) lock = false;
+    return !lock && (obj.title === title);
   });
   return book;
 }
 
-function getText(book) {
+function getText(book, showLocation) {
   var text = '';
   for (var i in book) {
     var b = book[i];
-    text += b.text + '\n\n----------\n\n';
+    var location = showLocation ? b.location : '';
+    text += '\n----------\t' + location +'\n\n' + b.text + '\n';
   }
   return text;
 }
