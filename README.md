@@ -1,13 +1,13 @@
-## Overview
+### Overview
 
 `kindle-my-clippings` is a command line tool for parsing and organizing your Kindle highlights.
 
-## Getting started
+### Getting started
 
-If you installed the module globally, just run it in the folder that contains 'My Clippings.txt' file or specify a path
+If you installed the module globally, run it in the folder containing 'My Clippings.txt' file or specify a path
 to it with -i (--input) option.
 
-Running `kindle-my-lippings` will display a title list, ex.:
+Running `kindle-my-clippings` will display a title list, ex.:
 
 ```
 1 - Developing Backbone.js Applications
@@ -18,9 +18,9 @@ Running `kindle-my-lippings` will display a title list, ex.:
 
 Entering a number from the list will display all highlights for a corresponding title.
 
-## Options
+### Options
 
-### `-l, --location`
+#### `-l, --location`
 
 will show location of each highlight, ex.
 
@@ -45,7 +45,7 @@ In this Chautauqua I would like not to cut any new channels of consciousness but
 
 You might want to use locations for more controll over the output - see the next option.
 
-### `-s, --start <location>`
+#### `-s, --start <location>`
 
 This options lets you specify the first highlight to display from. For example, given the above example output,
 running `kindle-my-clippings -b 3 -l -s '211-12'` will return highlights starting from this particular location, skipping the first two.
@@ -54,25 +54,25 @@ This may be useful in a situation where you've generated a file with some highli
 
 __Note__ the use of `-b` option which is mandatory to use with `-s` options.
 
-### `-b, --book <number>`
+#### `-b, --book <number>`
 
 Specifying this option will skip the title list and at the beginning and display the contents of a given book.
 
-### `-i, --input <path to a file>`
+#### `-i, --input <path to a file>`
 
 Lets you specify a path to your clippings file.
 
-### `-o, --output <path to a file>`
+#### `-o, --output <path to a file>`
 
 Writes output to the provided path.
 
-### `-f, --format <json|text>`
+#### `-f, --format <json|text>`
 
 Determines the output of clippings: `json` for a stringified collection of JSON objects, `text` for plain text.
 If the option is not specified, the default format is `text`.
 
-## Changelog
+### Changelog
 
-For old verstion of the module, which provides using it directly in the code as well as `html` as the output format go
+For the older version of the module, which provides using it directly in the code as well as `html` as the output format go
 to the [version 0.2.1](https://github.com/baniol/kindle-my-clippings/tree/0.2.1).
 

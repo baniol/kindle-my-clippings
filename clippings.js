@@ -1,27 +1,31 @@
-var fs = require('fs');
 var _ = require('underscore');
 var path = require('path');
 var fs = require('fs');
 var parseLines = require('./lib/parselines')
-
-var fileName;
 
 module.exports.getObject = getObject;
 module.exports.getTitles = getTitles;
 module.exports.getBook = getBook;
 module.exports.getText = getText;
 
-function getObject(file, cb) {
-  fileName = file;
-  getFileContents(function (content) {
+function getObject(fileNameArray, cb) {
+  getFileContents(fileNameArray, function (content) {
     cb(parseContent(content));
   });
 }
 
-function getFileContents(cb) {
-  fs.readFile(path.join(process.cwd(), fileName), 'utf8', function (err, data) {
-    if (err) throw err;
-    cb(data);
+function getFileContents(fileNameArray, cb) {
+  var counter = 0;
+  var text = '';
+  fileNameArray.forEach(function (file) {
+    fs.readFile(path.join(process.cwd(), file), 'utf8', function (err, data) {
+      if (err) throw err;
+      text = text + '\n' + data;
+      counter++;
+      if (counter === fileNameArray.length) {
+        cb(text);
+      }
+    });
   });
 }
 
@@ -88,14 +92,14 @@ function splitRecord(record) {
   return lines;
 }
 
-function getTitles (file, cb) {
+function getTitles(fileNameArray, cb) {
   var titles = [];
-  getObject(file, function (collection) {
-    collection.forEach(function(el) {
-      if(el.title)
+  getObject(fileNameArray, function (collection) {
+    collection.forEach(function (el) {
+      if (el.title)
         titles.push(el.title);
     });
-    var unique = titles.filter(function(itm, i, titles) {
+    var unique = titles.filter(function (itm, i, titles) {
       return i == titles.indexOf(itm);
     });
     cb(unique, collection);
@@ -105,7 +109,7 @@ function getTitles (file, cb) {
 function getBook(collection, title, startFrom) {
   var lock = !!startFrom;
   var book = collection.filter(function (obj) {
-    if(lock && (startFrom === obj.location)) lock = false;
+    if (lock && (startFrom === obj.location)) lock = false;
     return !lock && (obj.title === title);
   });
   return book;
@@ -113,10 +117,15 @@ function getBook(collection, title, startFrom) {
 
 function getText(book, showLocation) {
   var text = '';
+  var locationArray = [];
   for (var i in book) {
     var b = book[i];
-    var location = showLocation ? b.location : '';
-    text += '\n----------\t' + location +'\n\n' + b.text + '\n';
+    // Prevent from displaying doubled entries
+    if (locationArray.indexOf(b.location) === -1) {
+      var location = showLocation ? b.location : '';
+      text += '\n----------\t' + location + '\n\n' + b.text + '\n';
+    }
+    locationArray.push(b.location);
   }
   return text;
 }
