@@ -73,6 +73,7 @@ If the option is not specified, the default format is `text`.
 
 ### Changelog
 
-For the older version of the module, which provides using it directly in the code as well as `html` as the output format go
-to the [version 0.2.1](https://github.com/baniol/kindle-my-clippings/tree/0.2.1).
+* 0.3.0   22.11.2015  CLI only. New API. Display title list and choose a title.
+
+* Older API versions, supporting html output can be found here: [version 0.2.1](https://github.com/baniol/kindle-my-clippings/tree/0.2.1).
 
