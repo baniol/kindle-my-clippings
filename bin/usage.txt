@@ -1,4 +1,4 @@
-usage: kindle-my-clippings {OPTIONS}
+USAGE: kindle-my-clippings {OPTIONS}
 
   Parse 'My clippings.txt' file and return text or stringified JSON collection.
 
@@ -6,6 +6,8 @@ OPTIONS:
 
   -i, --input                  Input file. If none provided, the default
                                is 'My Clippings.txt' in the current directory.
+                               Multiple, coma separated files can be specified as the source, ex.:
+                               `-i 'my_clippings_1.txt,my_clippings_2.txt'`.
 
   -o, --output [<file_name>]   If present, writes output into the 'file_name' file.
                                Otherwise, prints the contents into the stdout.

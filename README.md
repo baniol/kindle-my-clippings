@@ -58,9 +58,9 @@ __Note__ the use of `-b` option which is mandatory to use with `-s` options.
 
 Specifying this option will skip the title list and at the beginning and display the contents of a given book.
 
-#### `-i, --input <path to a file>`
+#### `-i, --input <path to a file/files>`
 
-Lets you specify a path to your clippings file.
+Lets you specify a path to your clippings file or files. You can specify multiple coma separated files, ex. `-i 'my_clippings_1.txt,my_clippings_2.txt'`.
 
 #### `-o, --output <path to a file>`
 

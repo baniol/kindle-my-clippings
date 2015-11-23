@@ -1,6 +1,6 @@
 {
   "name": "kindle-my-clippings",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Amazon Kindle My Clippings.txt file parser",
   "keywords": [
     "parser",
@@ -10,7 +10,7 @@
   ],
   "author": {
     "name": "Marcin Baniowski",
-    "email": "marcin@baniowski.pl"
+    "email": "marcin.baniowski@gmailcom"
   },
   "dependencies": {
     "dateformat": "1.0.4-1.2.3",
