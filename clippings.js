@@ -120,12 +120,19 @@ function getText(book, showLocation) {
   var locationArray = [];
   for (var i in book) {
     var b = book[i];
-    // Prevent from displaying doubled entries
-    if (locationArray.indexOf(b.location) === -1) {
-      var location = showLocation ? b.location : '';
-      text += '\n----------\t' + location + '\n\n' + b.text + '\n';
+    if (b.location) {
+      // Prevent from displaying doubled entries
+      if (locationArray.indexOf(b.location) === -1) {
+        var location = showLocation ? b.location : '';
+        text += '\n----------\t' + location + '\n\n' + b.text + '\n';
+      }
+      locationArray.push(b.location);
     }
-    locationArray.push(b.location);
+    // No location property - probably pdf with `page` property
+    else {
+      text += '\n----------\t' + b.page + '\n\n' + b.text + '\n';
+    }
+
   }
   return text;
 }
