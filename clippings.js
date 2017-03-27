@@ -62,6 +62,7 @@ function makeArray(arr) {
     var second = parseLines.secondLine(lines);
     if (second) {
       singleRecord.time = second.time;
+      singleRecord.timeInMs = second.timeInMs;
       singleRecord.type = second.type;
       singleRecord.location = second.location;
       singleRecord.page = second.page;

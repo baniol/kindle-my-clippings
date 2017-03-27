@@ -4,18 +4,18 @@ USAGE: kindle-my-clippings {OPTIONS}
 
 OPTIONS:
 
-  -i, --input                  Input file. If none provided, the default
-                               is 'My Clippings.txt' in the current directory.
-                               Multiple, coma separated files can be specified as the source, ex.:
-                               `-i 'my_clippings_1.txt,my_clippings_2.txt'`.
+  -i, --input                   Input file. If none provided, the default
+                                is 'My Clippings.txt' in the current directory.
+                                Multiple, coma separated files can be specified as the source, ex.:
+                                `-i 'my_clippings_1.txt,my_clippings_2.txt'`.
 
-  -o, --output [<file_name>]   If present, writes output into the 'file_name' file.
-                               Otherwise, prints the contents into the stdout.
+  -o, --output [<file_name>]    If present, writes output into the 'file_name' file.
+                                Otherwise, prints the contents into the stdout.
 
-  -f, --format [text|json]     Output format: text or stringified JSON collection.
+  -f, --format [text|json|html|evernote] Output format: text, stringified JSON collection, HTML or evernote .enex file.
 
-  -l, --location               If present, shows location in text format.
+  -l, --location                If present, shows location in text format.
 
-  -s, --start [<location>]     Displays records starting from a specified location.
+  -s, --start [<location>]      Displays records starting from a specified location.
 
-  -b, --book [<number>]        Returns a given book without displaying title list.
+  -b, --book [<number>]         Returns a given book without displaying title list.
