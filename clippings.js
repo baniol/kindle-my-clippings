@@ -118,7 +118,21 @@ function getBook(collection, title, startFrom) {
 function getText(book, showLocation) {
   var text = '';
   var locationArray = [];
-  for (var i in book) {
+  const getSingleLocation = x => {
+    if (!x.location) return x
+    const index = x.location.indexOf('-')
+    if (index > -1) {
+      return Object.assign({}, x, {
+        location: Number(x.location.substr(0, index)),
+      })
+    }
+    return Object.assign({}, x, {
+      location: Number(x.location),
+    })
+  }
+  book = _.map(book, getSingleLocation)
+  book = _.sortBy(book, 'location')
+  for (let i = 0; i < book.length; i++) {
     var b = book[i];
     if (b.location) {
       // Prevent from displaying doubled entries
