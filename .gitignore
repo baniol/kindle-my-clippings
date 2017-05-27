@@ -2,3 +2,4 @@
 node_modules
 sass/.sass-cache
 deploy-settings.js
+.DS_Store

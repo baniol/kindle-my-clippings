@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "dateformat": "1.0.4-1.2.3",
+    "escape-html": "^1.0.3",
     "minimist": "^1.2.0",
     "underscore": "1.4.4"
   },
