@@ -8,6 +8,13 @@ module.exports.getTitles = getTitles;
 module.exports.getBook = getBook;
 module.exports.getText = getText;
 
+/*
+ * Exported only for testing
+ */
+module.exports._getFileContents = getFileContents;
+module.exports._splitIntoRecords = splitIntoRecords;
+module.exports._splitRecord = splitRecord;
+
 function getObject(fileNameArray, cb) {
   getFileContents(fileNameArray, function (content) {
     cb(parseContent(content));
@@ -18,7 +25,7 @@ function getFileContents(fileNameArray, cb) {
   var counter = 0;
   var text = '';
   fileNameArray.forEach(function (file) {
-    fs.readFile(path.join(process.cwd(), file), 'utf8', function (err, data) {
+    fs.readFile(file, 'utf8', function (err, data) {
       if (err) throw err;
       text = text + '\n' + data;
       counter++;

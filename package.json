@@ -15,10 +15,11 @@
   "dependencies": {
     "dateformat": "1.0.4-1.2.3",
     "minimist": "^1.2.0",
+    "moment": "^2.18.1",
     "underscore": "1.4.4"
   },
   "scripts": {
-    "test": "make test"
+    "test": "./node_modules/.bin/mocha -u tdd ./test/test.js"
   },
   "bin": "bin/cmd.js",
   "main": "./index.js",
